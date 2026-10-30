@@ -23,7 +23,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Açúcares - Totais",
-    "valor": 350,
+    "valor": 385,
     "ativo": true,
     "favorito": false
   },
@@ -34,7 +34,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Aflatoxinas - B1, B2, G1, G2",
-    "valor": 780,
+    "valor": 858,
     "ativo": true,
     "favorito": false
   },
@@ -45,7 +45,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Deoxinivalenol (DON)",
-    "valor": 780,
+    "valor": 858,
     "ativo": true,
     "favorito": false
   },
@@ -56,7 +56,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Ocratoxinas",
-    "valor": 810,
+    "valor": 891,
     "ativo": true,
     "favorito": false
   },
@@ -67,7 +67,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Água - Injetáveis - Endotoxina (LQ 0,25)",
-    "valor": 360,
+    "valor": 396,
     "ativo": true,
     "favorito": true
   },
@@ -78,7 +78,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Água - Injetáveis - Micro",
-    "valor": 180,
+    "valor": 198,
     "ativo": true,
     "favorito": false
   },
@@ -89,7 +89,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Água - Microscopia",
-    "valor": 198,
+    "valor": 217.8,
     "ativo": true,
     "favorito": false
   },
@@ -100,7 +100,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Água - Pesquisa de Fungos Filamentosos",
-    "valor": 220,
+    "valor": 242,
     "ativo": true,
     "favorito": false
   },
@@ -111,7 +111,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Água - Pesquisa de Fusarium",
-    "valor": 235,
+    "valor": 258.5,
     "ativo": true,
     "favorito": false
   },
@@ -122,7 +122,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Água - Pesquisa de Legionella pneumophila",
-    "valor": 360,
+    "valor": 396,
     "ativo": true,
     "favorito": false
   },
@@ -133,7 +133,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Água - Pesquisa de Legionella spp",
-    "valor": 360,
+    "valor": 396,
     "ativo": true,
     "favorito": false
   },
@@ -144,7 +144,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Água - Pesquisa de Mycobacterium sp",
-    "valor": 500,
+    "valor": 550,
     "ativo": true,
     "favorito": false
   },
@@ -155,7 +155,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Água de Autoclave - Endotoxina (LQ 10,0)",
-    "valor": 360,
+    "valor": 396,
     "ativo": true,
     "favorito": true
   },
@@ -166,7 +166,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Água de Bandeja - Micro",
-    "valor": 140,
+    "valor": 154,
     "ativo": true,
     "favorito": false
   },
@@ -177,7 +177,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Água de Caldeira",
-    "valor": 590,
+    "valor": 649,
     "ativo": true,
     "favorito": false
   },
@@ -188,7 +188,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Água de Enxágue - (pH, Surfactantes, Heterotróficas, Coliformes e E. coli)",
-    "valor": 407,
+    "valor": 447.7,
     "ativo": true,
     "favorito": false
   },
@@ -199,7 +199,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Água de Enxague - Cosméticos",
-    "valor": 175,
+    "valor": 192.5,
     "ativo": true,
     "favorito": true
   },
@@ -210,7 +210,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Água de Enxágue - FQ",
-    "valor": 270,
+    "valor": 297,
     "ativo": true,
     "favorito": false
   },
@@ -221,7 +221,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água de Hemodiálise - RDC 11 - CRL",
-    "valor": 30,
+    "valor": 33,
     "ativo": true,
     "favorito": false
   },
@@ -232,7 +232,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Água de Hemodiálise - RDC 11 - Endotoxina (LQ 0,125)",
-    "valor": 360,
+    "valor": 396,
     "ativo": true,
     "favorito": true
   },
@@ -243,7 +243,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Água de Hemodiálise - RDC 11 - Endotoxina (LQ 0,25)",
-    "valor": 360,
+    "valor": 396,
     "ativo": true,
     "favorito": true
   },
@@ -254,7 +254,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Água de Hemodiálise - RDC 11 - Endotoxina (LQ 10,0)",
-    "valor": 360,
+    "valor": 396,
     "ativo": true,
     "favorito": true
   },
@@ -265,7 +265,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água de Hemodiálise - RDC 11 - FQ",
-    "valor": 990,
+    "valor": 1089,
     "ativo": true,
     "favorito": false
   },
@@ -276,7 +276,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água de Hemodiálise - RDC 11 - Micro (BT, CT)",
-    "valor": 160,
+    "valor": 176,
     "ativo": true,
     "favorito": false
   },
@@ -287,7 +287,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água de Hemodiálise - RDC 11 - Micro (BT)",
-    "valor": 88,
+    "valor": 96.8,
     "ativo": true,
     "favorito": false
   },
@@ -298,7 +298,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água de Hemodiálise - RDC 11 - Micro Dialisato (BT)",
-    "valor": 88,
+    "valor": 96.8,
     "ativo": true,
     "favorito": false
   },
@@ -309,7 +309,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Água de Irrigação - 3 P - (pH, Tb, Colif. Tem.)",
-    "valor": 290,
+    "valor": 319,
     "ativo": true,
     "favorito": false
   },
@@ -320,7 +320,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Água de Osmose - RDC 15 - Endotoxina (LQ 0,25)",
-    "valor": 360,
+    "valor": 396,
     "ativo": true,
     "favorito": true
   },
@@ -331,7 +331,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Água de Osmose - RDC 15 - Endotoxina (LQ 10,0)",
-    "valor": 360,
+    "valor": 396,
     "ativo": true,
     "favorito": true
   },
@@ -342,7 +342,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água de Osmose - RDC 15 - Micro (BT, CT)",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": false
   },
@@ -353,7 +353,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Água de Reuso Não Tratada (pH, Turbidez, E.coli)",
-    "valor": 170,
+    "valor": 187,
     "ativo": true,
     "favorito": false
   },
@@ -364,7 +364,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Água de Reuso Tratada (Turbidez, E.coli , pH e Cl₂)",
-    "valor": 180,
+    "valor": 198,
     "ativo": true,
     "favorito": false
   },
@@ -375,7 +375,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Água de Torre - FQ",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": false
   },
@@ -386,7 +386,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Água de Torre - FQ + MC",
-    "valor": 190,
+    "valor": 209,
     "ativo": true,
     "favorito": false
   },
@@ -397,7 +397,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Água Envasada - Micro",
-    "valor": 290,
+    "valor": 319,
     "ativo": true,
     "favorito": false
   },
@@ -408,7 +408,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Água Envasada - Nitrito",
-    "valor": 110,
+    "valor": 121,
     "ativo": true,
     "favorito": false
   },
@@ -419,7 +419,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Água Gelada - (pH, Ferro Total, Nitrito)",
-    "valor": 187,
+    "valor": 205.7,
     "ativo": true,
     "favorito": false
   },
@@ -430,7 +430,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Água Gelada - (pH, Ferro, Nitrito, SDT, Condutividade,Dureza, Alcalinidade)",
-    "valor": 180,
+    "valor": 198,
     "ativo": true,
     "favorito": false
   },
@@ -441,7 +441,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Água Gelada - Mecalor - FQ",
-    "valor": 190,
+    "valor": 209,
     "ativo": true,
     "favorito": false
   },
@@ -452,7 +452,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Água Osmose - Químico e Microbiológico - MCG",
-    "valor": 300,
+    "valor": 330,
     "ativo": true,
     "favorito": false
   },
@@ -463,7 +463,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Água Osmose (CME) para Autoclave - BS EN285/2015",
-    "valor": 1150,
+    "valor": 1265,
     "ativo": true,
     "favorito": false
   },
@@ -474,7 +474,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Cianobactérias (Densidade)",
-    "valor": 479,
+    "valor": 526.9,
     "ativo": true,
     "favorito": false
   },
@@ -485,7 +485,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Cianotoxinas em Água (Anexo 10)",
-    "valor": 1025,
+    "valor": 1127.5,
     "ativo": true,
     "favorito": false
   },
@@ -496,7 +496,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - 1 P - (Cloro Residual Livre )",
-    "valor": 35,
+    "valor": 38.5,
     "ativo": true,
     "favorito": true
   },
@@ -507,7 +507,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - 1 P - (OD)",
-    "valor": 60,
+    "valor": 66,
     "ativo": true,
     "favorito": true
   },
@@ -518,7 +518,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - 4 P - (pH, Tb, Fe, Cor)",
-    "valor": 130,
+    "valor": 143,
     "ativo": true,
     "favorito": true
   },
@@ -529,7 +529,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - 5 P - (BT, CT, E.coli, Cl₂, Temp)",
-    "valor": 198,
+    "valor": 217.8,
     "ativo": true,
     "favorito": true
   },
@@ -540,7 +540,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - 6 P - (pH, Cl₂, Temp, BT, CT, E.coli)",
-    "valor": 215,
+    "valor": 236.5,
     "ativo": true,
     "favorito": true
   },
@@ -551,7 +551,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - 7 P - (Temp, pH, Cor, Turbidez, F, Odor, Cl₂)",
-    "valor": 170,
+    "valor": 187,
     "ativo": true,
     "favorito": true
   },
@@ -562,7 +562,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - 8 P - (pH, Cor, Turbidez, Odor, Cl₂, BT, CT, E.coli)",
-    "valor": 205,
+    "valor": 225.5,
     "ativo": true,
     "favorito": true
   },
@@ -573,7 +573,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - 8 P - (pH, SO₄², Cl, Dureza, Ca, Mg, Alca T, Alca Hidrox, Sódio)",
-    "valor": 330,
+    "valor": 363,
     "ativo": true,
     "favorito": true
   },
@@ -584,7 +584,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - 9 P - (pH, Cl₂, Temp, Cor, Turb, F, BT, CT, E.coli)",
-    "valor": 220,
+    "valor": 242,
     "ativo": true,
     "favorito": true
   },
@@ -595,7 +595,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - 10 P - (Temp, pH, Cor, Turbidez, STD, Aspecto, Cl₂, BT, CT, E.coli)",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -606,7 +606,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - 11 P",
-    "valor": 230,
+    "valor": 253,
     "ativo": true,
     "favorito": true
   },
@@ -617,7 +617,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - 11 P - (CRL, pH, Tb, Cor, F, NO₃, NO₂, Amônia, CT, E.coli)",
-    "valor": 230,
+    "valor": 253,
     "ativo": true,
     "favorito": true
   },
@@ -628,7 +628,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - 12 P - (Aspe, Odor, Gosto, Temp, pH, Turb, F, Cl₂, Cor, BT, CT, E.coli)",
-    "valor": 260,
+    "valor": 286,
     "ativo": true,
     "favorito": true
   },
@@ -639,7 +639,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - 12 P - (BT, CT, E.coli / Temp, Cl₂, pH, Aspecto, Odor, Cor, Turb, STD, Dureza)",
-    "valor": 255,
+    "valor": 280.5,
     "ativo": true,
     "favorito": true
   },
@@ -650,7 +650,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - 13 P - (BT, CT, E.coli, pH, Asp, Cl₂, Fe, F, Cor, Gosto, Odor, Turb, Temp)",
-    "valor": 275,
+    "valor": 302.5,
     "ativo": true,
     "favorito": true
   },
@@ -661,7 +661,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - 14 P - (Temp, Cl₂, pH, Tb, Cor, SDT, Fe, Fl, Dureza, Aspec, Odor , / BT, CT, E.coli)",
-    "valor": 290,
+    "valor": 319,
     "ativo": true,
     "favorito": true
   },
@@ -672,7 +672,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - 16 P - (Ca, Mg, Cl, SO₄, NO₃, NO₂, Fe, Mn, NH₃, Al, Cu, CT, E.coli, Dureza Total, Dureza Ca, Dureza Mg)",
-    "valor": 500,
+    "valor": 550,
     "ativo": true,
     "favorito": true
   },
@@ -683,7 +683,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - 18 P - (pH, Alca OH, Alca HCO₃, Alca CO₃, Alca T, Dureza, Fe, Cl⁻, SiO₂, PO₄, SO₃, Cond, Temp, SDT, Cl₂)",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -694,7 +694,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - 20 P - (Cl₂, pH, Temp, Asp, Odor, Cor, Tb, Mg, NH₃, NO₃, NO₂, Ca, Cl, DT, Fe, Sulf, F, BT, CT, Ecoli )",
-    "valor": 365,
+    "valor": 401.5,
     "ativo": true,
     "favorito": true
   },
@@ -705,7 +705,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - 21 P - (Cl₂, Temp, pH, Tb, Cor, SDT, Fe, F, Mn, NO₃, NO₂, SO₄², Cl, Dureza, Aspec, Odor, Alca T, Alca Hidrox. / BT, CT, E.coli)",
-    "valor": 385,
+    "valor": 423.5,
     "ativo": true,
     "favorito": true
   },
@@ -716,7 +716,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - 23 P - (Temp, Cl₂, pH, Tb, Cor, SDT, Fe, F, Mn, NO₃, NO₂, NH₃, SO₄², Cl, Dureza, Aspec, Odor, Alca T, Alca Hidrox / BT, CT, E.coli)",
-    "valor": 400,
+    "valor": 440,
     "ativo": true,
     "favorito": true
   },
@@ -727,7 +727,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - Água para Mamadeira - Micro",
-    "valor": 175,
+    "valor": 192.5,
     "ativo": true,
     "favorito": true
   },
@@ -738,7 +738,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - Água Tratada - Subprodutos da Desinfecção",
-    "valor": 1500,
+    "valor": 1650,
     "ativo": true,
     "favorito": true
   },
@@ -749,7 +749,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - Artigo 42",
-    "valor": 480,
+    "valor": 528,
     "ativo": true,
     "favorito": true
   },
@@ -760,7 +760,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - Micro - 2 P - (CT, E.coli)",
-    "valor": 135,
+    "valor": 148.5,
     "ativo": true,
     "favorito": true
   },
@@ -771,7 +771,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - Micro - 3 P - (BT, CT, E.coli)",
-    "valor": 175,
+    "valor": 192.5,
     "ativo": true,
     "favorito": true
   },
@@ -782,7 +782,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - (34 parâmetros)",
-    "valor": 2630,
+    "valor": 2893,
     "ativo": true,
     "favorito": true
   },
@@ -793,7 +793,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - Radioatividade",
-    "valor": 605,
+    "valor": 665.5,
     "ativo": true,
     "favorito": true
   },
@@ -804,7 +804,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - Radioatividade - Água Tratada",
-    "valor": 590,
+    "valor": 649,
     "ativo": true,
     "favorito": true
   },
@@ -815,7 +815,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água P. 888 - SS - 65",
-    "valor": 280,
+    "valor": 308,
     "ativo": true,
     "favorito": true
   },
@@ -826,7 +826,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Água Purificada - Endotoxina (LQ 10,0)",
-    "valor": 360,
+    "valor": 396,
     "ativo": true,
     "favorito": true
   },
@@ -837,7 +837,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Água Purificada - Micro (BT)",
-    "valor": 88,
+    "valor": 96.8,
     "ativo": true,
     "favorito": false
   },
@@ -848,7 +848,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Água Purificada - Micro",
-    "valor": 180,
+    "valor": 198,
     "ativo": true,
     "favorito": false
   },
@@ -859,7 +859,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Água Purificada - FQ",
-    "valor": 180,
+    "valor": 198,
     "ativo": true,
     "favorito": false
   },
@@ -870,7 +870,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Água Purificada - FQ + Micro",
-    "valor": 340,
+    "valor": 374,
     "ativo": true,
     "favorito": false
   },
@@ -881,7 +881,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Água Purificada - TOC",
-    "valor": 440,
+    "valor": 484,
     "ativo": true,
     "favorito": false
   },
@@ -892,7 +892,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Água Purificada - 7P - Micro",
-    "valor": 230,
+    "valor": 253,
     "ativo": true,
     "favorito": false
   },
@@ -903,7 +903,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água Purificada - Autoclave - CME - NBR ISO 11816:2003",
-    "valor": 900,
+    "valor": 990,
     "ativo": true,
     "favorito": false
   },
@@ -914,7 +914,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Água Purificada - FQ - (pH, Cloro, Cond)",
-    "valor": 120,
+    "valor": 132,
     "ativo": true,
     "favorito": false
   },
@@ -925,7 +925,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Água Purificada - Metais Pesados (Pb, Hg)",
-    "valor": 260,
+    "valor": 286,
     "ativo": true,
     "favorito": false
   },
@@ -936,7 +936,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Água Purificada - ISO 3696:1987",
-    "valor": 215,
+    "valor": 236.5,
     "ativo": true,
     "favorito": false
   },
@@ -947,7 +947,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Água Purificada - FQ + Micro ( Validação)",
-    "valor": 200,
+    "valor": 220,
     "ativo": true,
     "favorito": false
   },
@@ -958,7 +958,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Água Reagente - FQ + Micro",
-    "valor": 340,
+    "valor": 374,
     "ativo": true,
     "favorito": false
   },
@@ -969,7 +969,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Água Reagente - Micro - CLSI",
-    "valor": 180,
+    "valor": 198,
     "ativo": true,
     "favorito": false
   },
@@ -980,7 +980,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Água Reagente - TOC - CLSI",
-    "valor": 440,
+    "valor": 484,
     "ativo": true,
     "favorito": false
   },
@@ -991,7 +991,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Água Salgada - Microbiológico",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": false
   },
@@ -1002,7 +1002,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Água - Injetáveis - Endotoxina (LQ 0,25)",
-    "valor": 360,
+    "valor": 396,
     "ativo": true,
     "favorito": true
   },
@@ -1013,7 +1013,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Água Ultrapurificada - Micro",
-    "valor": 180,
+    "valor": 198,
     "ativo": true,
     "favorito": false
   },
@@ -1024,7 +1024,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Água Ultrapurificada - FQ",
-    "valor": 180,
+    "valor": 198,
     "ativo": true,
     "favorito": false
   },
@@ -1035,7 +1035,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Água Ultrapurificada - FQ + Micro",
-    "valor": 340,
+    "valor": 374,
     "ativo": true,
     "favorito": false
   },
@@ -1046,7 +1046,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Água Ultrapurificada - Endotoxina (LQ 0,25)",
-    "valor": 360,
+    "valor": 396,
     "ativo": true,
     "favorito": true
   },
@@ -1057,7 +1057,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Água Ultrapurificada - Sílica",
-    "valor": 140,
+    "valor": 154,
     "ativo": true,
     "favorito": false
   },
@@ -1068,7 +1068,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Água Ultrapurificada - TOC",
-    "valor": 440,
+    "valor": 484,
     "ativo": true,
     "favorito": false
   },
@@ -1079,7 +1079,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Água Ultrapurificada - FQ (TOC) + Micro",
-    "valor": 590,
+    "valor": 649,
     "ativo": true,
     "favorito": false
   },
@@ -1090,7 +1090,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor Alcoólico",
-    "valor": 130,
+    "valor": 143,
     "ativo": true,
     "favorito": true
   },
@@ -1101,7 +1101,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Alimentos - FQ - Teor de Luteína",
-    "valor": 14065,
+    "valor": 15471.5,
     "ativo": true,
     "favorito": true
   },
@@ -1112,7 +1112,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Alimentos - FQ - Ácidos Graxos Totais em Leite",
-    "valor": 260,
+    "valor": 286,
     "ativo": true,
     "favorito": false
   },
@@ -1123,7 +1123,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Alimentos - FQ - Teor de Cinzas",
-    "valor": 180,
+    "valor": 198,
     "ativo": true,
     "favorito": true
   },
@@ -1134,7 +1134,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Alimentos - FQ - Cloreto de Sódio",
-    "valor": 120,
+    "valor": 132,
     "ativo": true,
     "favorito": false
   },
@@ -1145,7 +1145,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Alimentos - FQ - Ácido Cítrico",
-    "valor": 650,
+    "valor": 715,
     "ativo": true,
     "favorito": false
   },
@@ -1156,7 +1156,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Alimentos - FQ - Viscosidade",
-    "valor": 100,
+    "valor": 110,
     "ativo": true,
     "favorito": false
   },
@@ -1167,7 +1167,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Colesterol em Alimentos",
-    "valor": 1452,
+    "valor": 1597.2,
     "ativo": true,
     "favorito": false
   },
@@ -1178,7 +1178,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Concentração de Vitamina C (Ácido Ascórbico) - HPLC",
-    "valor": 2750,
+    "valor": 3025,
     "ativo": true,
     "favorito": false
   },
@@ -1189,7 +1189,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Challenge Test",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Desafio Microbiano ( Alimentos)",
-    "valor": 1010,
+    "valor": 1111,
     "ativo": true,
     "favorito": false
   },
@@ -1200,7 +1200,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Challenge Test",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Desafio Microbiano ( Alimentos) - T0i - 0, 7, 14, 21, 28 dias",
-    "valor": 1185,
+    "valor": 1303.5,
     "ativo": true,
     "favorito": false
   },
@@ -1211,7 +1211,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Determinação de Lactose",
-    "valor": 1025,
+    "valor": 1127.5,
     "ativo": true,
     "favorito": false
   },
@@ -1222,7 +1222,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Dosagem de Carboidratos e Gordura Totais",
-    "valor": 420,
+    "valor": 462,
     "ativo": true,
     "favorito": false
   },
@@ -1233,7 +1233,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Dosagem de Carboidratos Totais",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": false
   },
@@ -1244,7 +1244,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Dosagem de Proteínas Totais, Nitrogênio",
-    "valor": 500,
+    "valor": 550,
     "ativo": true,
     "favorito": false
   },
@@ -1255,7 +1255,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Dosagem de Vitamina C (Ácido Ascórbico)",
-    "valor": 968,
+    "valor": 1064.8,
     "ativo": true,
     "favorito": false
   },
@@ -1266,7 +1266,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Farinhas e Massas - Macroscopia e Microscopia",
-    "valor": 298,
+    "valor": 327.8,
     "ativo": true,
     "favorito": false
   },
@@ -1277,7 +1277,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Fibra Alimentar",
-    "valor": 2360,
+    "valor": 2596,
     "ativo": true,
     "favorito": false
   },
@@ -1288,7 +1288,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Fibra Bruta",
-    "valor": 225,
+    "valor": 247.5,
     "ativo": true,
     "favorito": false
   },
@@ -1299,7 +1299,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Glicerina Vegetal Líquido 30 % - FQ",
-    "valor": 145,
+    "valor": 159.5,
     "ativo": true,
     "favorito": false
   },
@@ -1310,7 +1310,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Glúten",
-    "valor": 484,
+    "valor": 532.4,
     "ativo": true,
     "favorito": false
   },
@@ -1321,7 +1321,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Gorduras Totais em Alimentos",
-    "valor": 280,
+    "valor": 308,
     "ativo": true,
     "favorito": false
   },
@@ -1332,7 +1332,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Índice de Peróxido em Alimentos",
-    "valor": 180,
+    "valor": 198,
     "ativo": true,
     "favorito": false
   },
@@ -1343,7 +1343,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Metais em Alimentos - (Ar, Cd, Pb, Cu, Hg, Ni, Cr)",
-    "valor": 2200,
+    "valor": 2420,
     "ativo": true,
     "favorito": false
   },
@@ -1354,7 +1354,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Metais em Alimentos - (Ar, Cd, Pb)",
-    "valor": 1025,
+    "valor": 1127.5,
     "ativo": true,
     "favorito": false
   },
@@ -1365,7 +1365,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Nitratos e Nitritos em Alimentos",
-    "valor": 1570,
+    "valor": 1727,
     "ativo": true,
     "favorito": false
   },
@@ -1376,7 +1376,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Perfil de Açúcares (Lactose, Sacarose, Rafinose, Maltose, Glicose, Frutose, Galactose e Xilose)",
-    "valor": 930,
+    "valor": 1023,
     "ativo": true,
     "favorito": false
   },
@@ -1387,7 +1387,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Produtos de Panificação",
-    "valor": 315,
+    "valor": 346.5,
     "ativo": true,
     "favorito": false
   },
@@ -1398,7 +1398,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Proteínas Totais",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": false
   },
@@ -1409,7 +1409,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Proteínas Totais - Dosagem",
-    "valor": 350,
+    "valor": 385,
     "ativo": true,
     "favorito": false
   },
@@ -1420,7 +1420,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Qualidade de Almôndegas e Kibes",
-    "valor": 350,
+    "valor": 385,
     "ativo": true,
     "favorito": false
   },
@@ -1431,7 +1431,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Qualidade para Poupa de Açaí",
-    "valor": 195,
+    "valor": 214.5,
     "ativo": true,
     "favorito": false
   },
@@ -1442,7 +1442,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Qualidade para Poupa de Morango",
-    "valor": 650,
+    "valor": 715,
     "ativo": true,
     "favorito": false
   },
@@ -1453,7 +1453,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "A - IN 161 - Anexo II a) - Listeria monocytogenes",
-    "valor": 135,
+    "valor": 148.5,
     "ativo": true,
     "favorito": true
   },
@@ -1464,7 +1464,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "B - IN 161 - Anexo III b) Alimentos ácidos ou acidificados",
-    "valor": 242,
+    "valor": 266.2,
     "ativo": true,
     "favorito": true
   },
@@ -1475,7 +1475,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "1.a - IN 161 1. - a) \"In natura\", inteiras, selecionadas ou não",
-    "valor": 197,
+    "valor": 216.7,
     "ativo": true,
     "favorito": true
   },
@@ -1486,7 +1486,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "1.b - IN 161 1. - b) Preparadas (inteiras, descascadas ou fracionadas), sanificadas, refrigeradas ou congeladas",
-    "valor": 197,
+    "valor": 216.7,
     "ativo": true,
     "favorito": true
   },
@@ -1497,7 +1497,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "1.c - IN 161 1. - c) Branqueadas ou cozidas",
-    "valor": 197,
+    "valor": 216.7,
     "ativo": true,
     "favorito": true
   },
@@ -1508,7 +1508,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "1.d - IN 161 1. - d) Secas, desidratadas ou liofilizadas",
-    "valor": 241,
+    "valor": 265.1,
     "ativo": true,
     "favorito": true
   },
@@ -1519,7 +1519,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "1.e - IN 161 1. - e) Polpas e purês",
-    "valor": 241,
+    "valor": 265.1,
     "ativo": true,
     "favorito": true
   },
@@ -1530,7 +1530,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "1.f - IN 161 1. - f) Doces em pasta ou massa e similares, incluindo geleias e doces em calda",
-    "valor": 241,
+    "valor": 265.1,
     "ativo": true,
     "favorito": true
   },
@@ -1541,7 +1541,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "1.g - IN 161 1. - g) Fritos ou assados, com ou sem adição de outros ingredientes",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -1552,7 +1552,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "2.a - IN 161 2. - a) \"In natura\", inteiros, selecionados ou não",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -1563,7 +1563,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "2.b - IN 161 2. - b) Preparados (inteiros, descascados ou fracionados), sanificados, branqueados, refrigerados ou congelados, que não necessitam de tratamento térmico efetivo, previamente ao consumo",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -1574,7 +1574,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "2.c - IN 161 2. - c) Preparados (inteiros, descascados ou fracionados), sanificados, branqueados, pré-fritos, refrigerados ou congelados, que necessitam de tratamento térmico efetivo previamente ao consumo",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -1585,7 +1585,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "2.d - IN 161 2. - d) Secos, desidratados ou liofilizados",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -1596,7 +1596,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "2.e - IN 161 2. - e) Polpas e purês",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -1607,7 +1607,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "2.f - IN 161 2. - f) Em pasta ou massa e similares, incluindo geleias e doces em calda",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -1618,7 +1618,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "2.g - IN 161 2. - g) Fritos ou assados, com ou sem adição de outros ingredientes",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -1629,7 +1629,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "3.a - IN 161 3. - a) Nozes, amêndoas, castanhas, amendoins, nibs de cacau, sementes comestíveis, adicionadas ou não de outros ingredientes, com coberturas ou não, para consumo direto",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -1640,7 +1640,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "3.b - IN 161 3. - b) Coco ralado, farinhas, farelos, pastas e paçoca de nozes, amêndoas, castanhas, amendoim, sementes leguminosas e sementes comestíveis",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -1651,7 +1651,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "3.c - IN 161 3. - c) Barras de nozes, amêndoas, castanhas, amendoim, sementes leguminosas e sementes comestíveis",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -1662,7 +1662,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "4.a - IN 161 4. - a) Vegetais em conserva, acidificados (pH menor ou igual a 4,5), com líquido de cobertura, adicionados de conservadores, não comercialmente estéreis",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -1673,7 +1673,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "4.b - IN 161 4. - b) Vegetais em conserva, com líquido de cobertura, refrigerados, não comercialmente estéreis",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -1684,7 +1684,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "4.c - IN 161 4. - c) Tofu, sufu e similares, refrigerados",
-    "valor": 290,
+    "valor": 319,
     "ativo": true,
     "favorito": true
   },
@@ -1695,7 +1695,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "4.d - IN 161 4. - d) Proteínas vegetais texturizadas com ou sem adição de outros ingredientes",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -1706,7 +1706,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "5.a - IN 161 5. - a) Carnes ou miúdos crus, temperados ou não, refrigerados ou congelados",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -1717,7 +1717,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "5.b - IN 161 5. - b) Produtos cárneos crus à base de carne moída ou picada de aves, temperados ou não, embutidos ou não, refrigerados ou congelados",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -1728,7 +1728,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "5.c - IN 161 5. - c) Produtos cárneos semielaborados, temperados ou não, empanados refrigerados ou congelados",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -1739,7 +1739,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "5.d - IN 161 5. - d) Produtos cárneos cozidos inteiros ou em cortes, defumados ou não, embutidos ou não (mortadela, salsicha, presunto, fiambre, patês, galantines)",
-    "valor": 290,
+    "valor": 319,
     "ativo": true,
     "favorito": true
   },
@@ -1750,7 +1750,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "6.a - IN 161 6. - a) Carnes cruas resfriadas - ( BT, BL, E. coli, Entero, B.cereus, estafili, Salmo, B. Lácteas)",
-    "valor": 430,
+    "valor": 473,
     "ativo": true,
     "favorito": true
   },
@@ -1761,7 +1761,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "6.a - IN 161 6. - a) Carnes cruas, maturadas ou não, temperadas ou não, refrigeradas ou congeladas, embaladas a vácuo ou não, miúdos, toucinho e pele",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -1772,7 +1772,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "6.b - IN 161 6. - b) Carne moída, produtos cárneos crus moldados, temperados ou não, refrigerados ou congelados (hamburgueres, almôndegas, quibes)",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -1783,7 +1783,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "6.c - IN 161 6. - c) Embutidos crus (linguiças frescais)",
-    "valor": 225,
+    "valor": 247.5,
     "ativo": true,
     "favorito": true
   },
@@ -1794,7 +1794,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "6.d - IN 161 6. - d) Produtos cárneos maturados, dessecados (presuntos crus, copas, salames, linguiças dessecadas, charque, \"jerked beef\")",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -1805,7 +1805,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "6.e - IN 161 6. - e) Carnes e produtos cárneos crus salgados miúdos internos, externos e pele",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -1816,7 +1816,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "6.f - IN 161 6. - f) Produtos cárneos cozidos, curados ou não, defumados ou não, dessecados ou não, embutidos ou não, refrigerados ou não (mortadela, salsicha, presunto, fiambre, morcelas, patês, galantines)",
-    "valor": 290,
+    "valor": 319,
     "ativo": true,
     "favorito": true
   },
@@ -1827,7 +1827,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "6.g - IN 161 6. - g) Gorduras e produtos gordurosos de origem animal (banha e bacon)",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -1838,7 +1838,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "7.a - IN 161 7. - a) Pescados (peixes, crustáceos, moluscos) e miúdos (ovas, moela, bexiga natatória) crus, temperados ou não, frescos, resfriados ou congelados",
-    "valor": 215,
+    "valor": 236.5,
     "ativo": true,
     "favorito": true
   },
@@ -1849,7 +1849,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "7.b - IN 161 7. - b) Moluscos bivalves vivos e equinodermas, tunicados e gastrópodos vivos, consumidos crus",
-    "valor": 215,
+    "valor": 236.5,
     "ativo": true,
     "favorito": true
   },
@@ -1860,7 +1860,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "7.c - IN 161 7. - c) Produtos à base de carne moída ou picada de pescados, temperados ou não, refrigerados ou congelados (hamburgueres, almôndegas, empanados crus, linguiças cruas)",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -1871,7 +1871,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "7.d - IN 161 7. - d) Pescados (peixes, crustáceos, moluscos) e miúdos (ovas, bexiga natatória) salgados ou salgado secos, anchovados ou em salmoura",
-    "valor": 215,
+    "valor": 236.5,
     "ativo": true,
     "favorito": true
   },
@@ -1882,7 +1882,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "7.e - IN 161 7. - e) Pescados semielaborados desidratados, defumados ou não, empanados ou não, refrigerados ou congelados (nuggets, steaks, fingers)",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -1893,7 +1893,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "8.a - IN 161 8. - a) Ovo íntegro cru (clara e gema)",
-    "valor": 110,
+    "valor": 121,
     "ativo": true,
     "favorito": true
   },
@@ -1904,7 +1904,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "8.b - IN 161 8. - b) Gemas, claras, suas misturas ou derivados de ovos, pasteurizados, resfriados, congelados ou desidratados",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -1915,7 +1915,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "8.c - IN 161 8. - c) Ovos em conserva, acidificados, com líquido de cobertura, adicionados de conservadores, não comercialmente estéreis",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -1926,7 +1926,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "8.d - IN 161 8. - d) Ovos em salmoura ou outros líquidos, mantidos sob refrigeração, não comercialmente estéreis",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -1937,7 +1937,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "9.a - IN 161 9. - a) Leites pasteurizados",
-    "valor": 180,
+    "valor": 198,
     "ativo": true,
     "favorito": true
   },
@@ -1948,7 +1948,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "9.b - IN 161 9. - b) Queijos",
-    "valor": 350,
+    "valor": 385,
     "ativo": true,
     "favorito": true
   },
@@ -1959,7 +1959,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "9.c - IN 161 9. - c) Produtos lácteos processados fundidos, incluindo requeijão e misturas lácteas pastosas",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -1970,7 +1970,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "9.d - IN 161 9. - d) Manteigas, gorduras lácteas, cremes de leite pasteurizado, misturas de manteiga com margarina",
-    "valor": 290,
+    "valor": 319,
     "ativo": true,
     "favorito": true
   },
@@ -1981,7 +1981,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "9.e - IN 161 9. - e) Produtos lácteos em pó, incluindo leite, compostos lácteos, soro de leite e concentrados proteicos de leite ou de soro",
-    "valor": 290,
+    "valor": 319,
     "ativo": true,
     "favorito": true
   },
@@ -1992,7 +1992,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "9.f - IN 161 9. - f) Doce de leite, leite condensado e doce de base láctea, não comercialmente estéreis",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -2003,7 +2003,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "9.g - IN 161 9. - g) Produtos lácteos fermentados",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -2014,7 +2014,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "9.h - IN 161 9. - h) Pasta ou molho de base láctea pasteurizada, refrigerada, com ou sem adições, temperadas ou não, excluindo os queijos",
-    "valor": 290,
+    "valor": 319,
     "ativo": true,
     "favorito": true
   },
@@ -2025,7 +2025,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "9.i - IN 161 9. - i) Sobremesas lácteas e leite geleificado pasteurizados, refrigerados, com ou sem adições",
-    "valor": 290,
+    "valor": 319,
     "ativo": true,
     "favorito": true
   },
@@ -2036,7 +2036,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "9.j - IN 161 9. - j) Misturas em pó para o preparo de bebidas de base láctea",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -2047,7 +2047,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "10.a - IN 161 10. - a) Gelados comestíveis - À BASE LÁCTEA",
-    "valor": 290,
+    "valor": 319,
     "ativo": true,
     "favorito": true
   },
@@ -2058,7 +2058,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "10.a - IN 161 10. - a) Gelados comestíveis - À BASE NÃO LÁCTEA",
-    "valor": 260,
+    "valor": 286,
     "ativo": true,
     "favorito": true
   },
@@ -2069,7 +2069,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "11.a - IN 161 11. - a) Margarinas e cremes vegetais",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -2080,7 +2080,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "12.a - IN 161 12. - a) Refrigerantes e outras bebidas carbonatadas",
-    "valor": 195,
+    "valor": 214.5,
     "ativo": true,
     "favorito": true
   },
@@ -2091,7 +2091,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "12.b - IN 161 12. - b) Refrescos, sucos, néctares e outras bebidas não carbonatadas, adicionadas de conservadores, não refrigeradas",
-    "valor": 195,
+    "valor": 214.5,
     "ativo": true,
     "favorito": true
   },
@@ -2102,7 +2102,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "12.c - IN 161 12. - c) Sucos desidratados e pós para o preparo de bebidas",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -2113,7 +2113,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "12.d - IN 161 12. - d) Sucos concentrados adicionados de conservadores ou congelados",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -2124,7 +2124,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "12.e - IN 161 12. - e) Sucos e outras bebidas submetidas a processos tecnológicos para redução microbiana, que necessitam de refrigeração",
-    "valor": 290,
+    "valor": 319,
     "ativo": true,
     "favorito": true
   },
@@ -2135,7 +2135,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "12.e - IN 161 12. - e) Sucos e outras bebidas submetidas a processos tecnológicos para redução microbiana, que necessitam de refrigeração - PARA BEBIDAS À BASE DE CEREAIS, SEMENTES E GRÃOS",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -2146,7 +2146,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "12.f - IN 161 12. - f) Sucos e outras bebidas “in natura” ou reconstituídas",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -2157,7 +2157,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "12.g - IN 161 12. - g) Leite de coco e bebidas à base de cereais, sementes ou grãos estáveis à temperatura ambiente, adicionados de conservadores",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -2168,7 +2168,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "13.a - IN 161 13. - a) Fórmulas infantis em pó para lactentes (até seis meses de idade), fórmulas infantis destinadas a necessidades dietoterápicas específicas, fórmulas de nutrientes",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -2179,7 +2179,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "13.b - IN 161 13. - b) Fórmulas infantis em pó de seguimento para lactentes e crianças de primeira infância e outros alimentos especialmente formulados para lactentes e crianças de primeira infância",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -2190,7 +2190,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "13.c - IN 161 13. - c) Alimentos à base de cereais para alimentação infantil",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -2201,7 +2201,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "13.d - IN 161 13. - d) Alimentos infantis de transição não estáveis a temperatura ambiente (papinhas refrigeradas ou congeladas)",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -2212,7 +2212,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "14.a - IN 161 14. - a) Fórmulas destinadas a lactentes até 6 (seis) meses",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -2223,7 +2223,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "14.b - IN 161 14. - b) Fórmulas destinadas a lactentes e crianças de primeira infância entre 6 (seis) meses e 3 (três) anos",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -2234,7 +2234,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "14.c - IN 161 14. - c) Fórmulas destinadas a crianças maiores de 3 (três) anos e adultos",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -2245,7 +2245,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "15.a - IN 161 15. - a) Suplementos em pó e em barra - SOMENTE EM BARRA",
-    "valor": 305,
+    "valor": 335.5,
     "ativo": true,
     "favorito": true
   },
@@ -2256,7 +2256,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "15.a - IN 161 15. - a) Suplementos em pó e em barra - SOMENTE EM PÓ",
-    "valor": 305,
+    "valor": 335.5,
     "ativo": true,
     "favorito": true
   },
@@ -2267,7 +2267,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "15.b - IN 161 15. - b) Suplementos líquidos e em géis, não comercialmente estéreis",
-    "valor": 260,
+    "valor": 286,
     "ativo": true,
     "favorito": true
   },
@@ -2278,7 +2278,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "16.a - IN 161 16. - a) Açúcares, edulcorantes e adoçantes de mesa sólidos",
-    "valor": 160,
+    "valor": 176,
     "ativo": true,
     "favorito": true
   },
@@ -2289,7 +2289,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "16.b - IN 161 16. - b) Edulcorantes e adoçantes de mesa líquidos",
-    "valor": 160,
+    "valor": 176,
     "ativo": true,
     "favorito": true
   },
@@ -2300,7 +2300,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "16.c - IN 161 16. - c) Melado, melaço, caldas, xarope",
-    "valor": 160,
+    "valor": 176,
     "ativo": true,
     "favorito": true
   },
@@ -2311,7 +2311,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "17.a - IN 161 17. - a) Café, cevada, chás e produtos similares, consumidos sem emprego de calor, incluindo as cápsulas, adicionados ou não de outros ingredientes",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -2322,7 +2322,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "17.b - IN 161 17. - b) Café, cevada, chás e produtos similares, consumidos após emprego de calor (infusão e decocção), incluindo as cápsulas, adicionados ou não de outros ingredientes",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -2333,7 +2333,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "18.a - IN 161 18. - a) Especiarias",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -2344,7 +2344,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "18.b - IN 161 18. - b) Temperos desidratados, em pasta ou prensados (mistura para tempero de feijão, caldos em cubos, misturas para refogar)",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -2355,7 +2355,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "18.c - IN 161 18. - c) Catchup, mostarda, barbecue, maionese e molhos",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -2366,7 +2366,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "19.a - IN 161 19. - a) Farinhas, amidos, féculas e fubás",
-    "valor": 260,
+    "valor": 286,
     "ativo": true,
     "favorito": true
   },
@@ -2377,7 +2377,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "19.b - IN 161 19. - b) Massas alimentícias secas, com ou sem recheio, incluindo as massas instantâneas - MASSAS COM OVOS",
-    "valor": 300,
+    "valor": 330,
     "ativo": true,
     "favorito": true
   },
@@ -2388,7 +2388,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "19.b - IN 161 19. - b) Massas alimentícias secas, com ou sem recheio, incluindo as massas instantâneas - MASSAS SEM OVOS",
-    "valor": 260,
+    "valor": 286,
     "ativo": true,
     "favorito": true
   },
@@ -2399,7 +2399,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "19.c - IN 161 19. - c) Massas alimentícias frescas e produtos semielaborados, com ou sem recheio, com ou sem cobertura (pão de queijo, pão de batata, pizza, pastéis), refrigerados ou congelados - RECHEADOS COM CARNES",
-    "valor": 390,
+    "valor": 429,
     "ativo": true,
     "favorito": true
   },
@@ -2410,7 +2410,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "19.c - IN 161 19. - c) Massas alimentícias frescas e produtos semielaborados, com ou sem recheio, com ou sem cobertura (pão de queijo, pão de batata, pizza, pastéis), refrigerados ou congelados - SEM CARNE",
-    "valor": 350,
+    "valor": 385,
     "ativo": true,
     "favorito": true
   },
@@ -2421,7 +2421,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "19.d - IN 161 19. - d) Pães, bolos, bolachas, biscoitos e outros produtos de panificação, estáveis à temperatura ambiente - COM RECHEIO",
-    "valor": 350,
+    "valor": 385,
     "ativo": true,
     "favorito": true
   },
@@ -2432,7 +2432,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "19.d - IN 161 19. - d) Pães, bolos, bolachas, biscoitos e outros produtos de panificação, estáveis à temperatura ambiente - SEM RECHEIO",
-    "valor": 302,
+    "valor": 332.2,
     "ativo": true,
     "favorito": true
   },
@@ -2443,7 +2443,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "19.e - IN 161 19. - e) Pães, bolos e outros produtos de panificação, não estáveis à temperatura ambiente",
-    "valor": 350,
+    "valor": 385,
     "ativo": true,
     "favorito": true
   },
@@ -2454,7 +2454,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "19.f - IN 161 19. - f) Produtos à base de amidos, farinhas, féculas e fubás, semi elaborados e misturas em pó com ou sem ovos para bolos, pães, tortas, empadas, pizzas, preparações para empanar, estáveis à temperatura ambiente",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -2465,7 +2465,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "19.g - IN 161 19. - g) Cereais extrusados, com ou sem adição de outros ingredientes",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -2476,7 +2476,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "19.h - IN 161 19. - h) Produtos à base de cereais não compactados, incluindo farofa, farelos, fibras e granolas",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -2487,7 +2487,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "19.i - IN 161 19. - i) Cereais compactados, em barra ou outras formas",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": true
   },
@@ -2498,7 +2498,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "20.a - IN 161 20. - a) Balas, pastilhas, drágeas, caramelos, gomas de mascar e outros confeitos",
-    "valor": 245,
+    "valor": 269.5,
     "ativo": true,
     "favorito": true
   },
@@ -2509,7 +2509,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "20.b - IN 161 20. - b) Chocolates, incluindo chocolates brancos, adicionados ou não de outros ingredientes secos",
-    "valor": 245,
+    "valor": 269.5,
     "ativo": true,
     "favorito": true
   },
@@ -2520,7 +2520,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "20.c - IN 161 20. - c) Chocolates, incluindo chocolates brancos, bombons e similares, com recheio não perecível",
-    "valor": 260,
+    "valor": 286,
     "ativo": true,
     "favorito": true
   },
@@ -2531,7 +2531,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "20.d - IN 161 20. - d) Chocolates, incluindo chocolates brancos, bombons e similares, com recheio perecível",
-    "valor": 310,
+    "valor": 341,
     "ativo": true,
     "favorito": true
   },
@@ -2542,7 +2542,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "20.e - IN 161 20. - e) Cacau em pó",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -2553,7 +2553,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "20.f - IN 161 20. - f) Achocolatados em pó",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -2564,7 +2564,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "20.g - IN 161 20. - g) Pastas, cremes, coberturas e recheios, estáveis à temperatura ambiente e não comercialmente estéreis",
-    "valor": 245,
+    "valor": 269.5,
     "ativo": true,
     "favorito": true
   },
@@ -2575,7 +2575,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "20.g - IN 161 20. - g) Pastas, cremes, coberturas e recheios, estáveis à temperatura ambiente e não comercialmente estéreis - BASE LÁCTEA",
-    "valor": 260,
+    "valor": 286,
     "ativo": true,
     "favorito": true
   },
@@ -2586,7 +2586,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "20.h - IN 161 20. - h) Pastas, cremes, coberturas, recheios e similares, não estáveis à temperatura ambiente",
-    "valor": 260,
+    "valor": 286,
     "ativo": true,
     "favorito": true
   },
@@ -2597,7 +2597,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "21. - IN 161 21 - item 21 - Alimentos preparados prontos para o consumo",
-    "valor": 290,
+    "valor": 319,
     "ativo": true,
     "favorito": true
   },
@@ -2608,7 +2608,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "21.a1 - IN 161 21 - item 21.a1) Alimentos preparados prontos para o consumo, elaborados com emprego de calor - PREPARAÇÕES SOMENTE COM CARNES",
-    "valor": 320,
+    "valor": 352,
     "ativo": true,
     "favorito": true
   },
@@ -2619,7 +2619,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "21.a2 - IN 161 21 - Item 21.a2) Alimentos preparados prontos para o consumo, elaborados com emprego de calor - PREPARAÇÃO COM CEREAIS OU MOLHOS",
-    "valor": 320,
+    "valor": 352,
     "ativo": true,
     "favorito": true
   },
@@ -2630,7 +2630,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "21.a3 - IN 161 21 - Item 21.a3) Alimentos preparados prontos para o consumo, elaborados com emprego de calor - PREPARAÇÕES COM LEGUMES, TUBÉRCULOS, RAÍZES, GRÃOS, VERDURAS ,OVOS,SEM CARNES OU CEREAIS",
-    "valor": 280,
+    "valor": 308,
     "ativo": true,
     "favorito": true
   },
@@ -2641,7 +2641,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "21.a4 - IN 161 21 - Item 21.a4) Alimentos preparados prontos para o consumo, elaborados com emprego de calor - PREPARAÇÕES DESTINADAS À LACTENTES",
-    "valor": 350,
+    "valor": 385,
     "ativo": true,
     "favorito": true
   },
@@ -2652,7 +2652,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "21.a5 - IN 161 21 - Item 21.a5) Alimentos preparados prontos para o consumo, elaborados com emprego de calor - PREPARAÇÕES DESTINADAS À NUTRIÇÃO ENTERAL",
-    "valor": 350,
+    "valor": 385,
     "ativo": true,
     "favorito": true
   },
@@ -2663,7 +2663,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "21.a6 - IN 161 21 - Item 21.a6) Alimentos preparados prontos para o consumo, elaborados com emprego de calor - PREPARAÇÕES COM CARNES E CEREAIS",
-    "valor": 355,
+    "valor": 390.5,
     "ativo": true,
     "favorito": true
   },
@@ -2674,7 +2674,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "21.d1 - IN 161 21 - Item 21.d1) Sanduíches - PREPARAÇÕES COM CARNES",
-    "valor": 360,
+    "valor": 396,
     "ativo": true,
     "favorito": true
   },
@@ -2685,7 +2685,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "21.d2 - IN 161 21 - Item 21.d2) Sanduíches",
-    "valor": 320,
+    "valor": 352,
     "ativo": true,
     "favorito": true
   },
@@ -2696,7 +2696,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "21.b - IN 161 21. - b) Alimentos preparados prontos para o consumo contendo produtos de origem animal, elaborados sem emprego de calor, consumidos crus",
-    "valor": 280,
+    "valor": 308,
     "ativo": true,
     "favorito": true
   },
@@ -2707,7 +2707,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "21.c - IN 161 21. - c) Alimentos preparados prontos para o consumo contendo exclusivamente produtos de origem vegetal, elaborados sem emprego de calor, a base de verduras, legumes, raízes, tubérculos e similares, cozidos, temperados ou não",
-    "valor": 225,
+    "valor": 247.5,
     "ativo": true,
     "favorito": true
   },
@@ -2718,7 +2718,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "22.a1 - IN 161 22. - a1) Alimentos semielaborados - COM CARNES",
-    "valor": 390,
+    "valor": 429,
     "ativo": true,
     "favorito": true
   },
@@ -2729,7 +2729,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "22.a2 - IN 161 22. - a2) Alimentos semielaborados - Á BASE DE CEREAIS OU MOLHOS",
-    "valor": 430,
+    "valor": 473,
     "ativo": true,
     "favorito": true
   },
@@ -2740,7 +2740,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "22.a3 - IN 161 22. - a3) Alimentos semielaborados - SEM CARNES, CEREAIS OU MOLHOS",
-    "valor": 340,
+    "valor": 374,
     "ativo": true,
     "favorito": true
   },
@@ -2751,7 +2751,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "22.a4 - IN 161 22. - a4) Alimentos semielaborados - COM CARNES À BASE DE CEREAIS OU MOLHOS",
-    "valor": 390,
+    "valor": 429,
     "ativo": true,
     "favorito": true
   },
@@ -2762,7 +2762,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "22.b1 - IN 161 22. - b1) Alimentos prontos para o consumo - SOMENTE PARA ALIMENTOS COM CARNES",
-    "valor": 390,
+    "valor": 429,
     "ativo": true,
     "favorito": true
   },
@@ -2773,7 +2773,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "22.b2 - IN 161 22. - b2) Alimentos prontos para o consumo - ALIMENTOS Á BASE DE CEREAIS ,MOLHOS SEM CARNES",
-    "valor": 390,
+    "valor": 429,
     "ativo": true,
     "favorito": true
   },
@@ -2784,7 +2784,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "22.b3 - IN 161 22. - b3) Alimentos prontos para o consumo - SEM CARNES, CEREAIS OU MOLHOS",
-    "valor": 340,
+    "valor": 374,
     "ativo": true,
     "favorito": true
   },
@@ -2795,7 +2795,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "22.b4 - IN 161 22. - b4) Alimentos prontos para o consumo - SOMENTE PARA ALIMENTOS COM CARNES (incluindo Bolores e Leveduras)",
-    "valor": 290,
+    "valor": 319,
     "ativo": true,
     "favorito": true
   },
@@ -2806,7 +2806,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "22.b5 - IN 161 22. - b5) Alimentos prontos para o consumo - ALIMENTOS Á BASE DE CEREAIS ,MOLHOS COM CARNES",
-    "valor": 320,
+    "valor": 352,
     "ativo": true,
     "favorito": true
   },
@@ -2817,7 +2817,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "22.b6 - IN 161 22 - b6) Alimentos prontos para o consumo - DOCES",
-    "valor": 320,
+    "valor": 352,
     "ativo": true,
     "favorito": true
   },
@@ -2828,7 +2828,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "22.e - IN 161 22 - e) Doces e sobremesas",
-    "valor": 320,
+    "valor": 352,
     "ativo": true,
     "favorito": true
   },
@@ -2839,7 +2839,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "23.a - IN 161 23 - a) Com emprego de calor",
-    "valor": 225,
+    "valor": 247.5,
     "ativo": true,
     "favorito": true
   },
@@ -2850,7 +2850,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "23.b - IN 161 23 - b) Sem emprego de calor",
-    "valor": 225,
+    "valor": 247.5,
     "ativo": true,
     "favorito": true
   },
@@ -2861,7 +2861,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "24.a - IN 161 24 - a) Água mineral natural, água natural, água adicionada de sais e água do mar dessalinizada potável",
-    "valor": 240,
+    "valor": 264,
     "ativo": true,
     "favorito": true
   },
@@ -2872,7 +2872,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Aminograma",
-    "valor": 2750,
+    "valor": 3025,
     "ativo": true,
     "favorito": false
   },
@@ -2883,7 +2883,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Ar - Método Ativo - RDC 658 - Grau C",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": false
   },
@@ -2894,7 +2894,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Ar - Método Ativo - RDC 658 - Grau D",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": false
   },
@@ -2905,7 +2905,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Ar - Método Ativo - RDC 836 - ISO 5 (Em Operação)",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": false
   },
@@ -2916,7 +2916,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Ar - Método Ativo - RDC 836 - ISO 8 (Em Operação)",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": false
   },
@@ -2927,7 +2927,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Ar - Método Passivo - OPAS",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": false
   },
@@ -2938,7 +2938,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Ar - Método Passivo - RDC 658 - Grau A",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": false
   },
@@ -2949,7 +2949,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Ar - Método Passivo - RDC 658 - Grau B",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": false
   },
@@ -2960,7 +2960,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Ar - Método Passivo - RDC 658 - Grau C",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": false
   },
@@ -2971,7 +2971,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Ar - Método Passivo - RDC 658 - Grau D",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": false
   },
@@ -2982,7 +2982,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Ar Ambiente - Aerodispersóides",
-    "valor": 120,
+    "valor": 132,
     "ativo": true,
     "favorito": false
   },
@@ -2993,7 +2993,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Ar Ambiente - Grau D - (Bactérias Aeróbias e Anaeróbias)",
-    "valor": 120,
+    "valor": 132,
     "ativo": true,
     "favorito": false
   },
@@ -3004,7 +3004,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Ar Ambiente - TVOC",
-    "valor": 180,
+    "valor": 198,
     "ativo": true,
     "favorito": false
   },
@@ -3015,7 +3015,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Ar Comprimido - FQ - Classes 4 ou 5 (Material particulado, óleo e graxas, umidade)",
-    "valor": 240,
+    "valor": 264,
     "ativo": true,
     "favorito": false
   },
@@ -3026,7 +3026,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Ar Comprimido - Grau A - (Bactérias Aeróbias , Anaeróbias e Fungos)",
-    "valor": 180,
+    "valor": 198,
     "ativo": true,
     "favorito": false
   },
@@ -3037,7 +3037,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Ar Comprimido - Grau A - (BT, BL)",
-    "valor": 120,
+    "valor": 132,
     "ativo": true,
     "favorito": false
   },
@@ -3048,7 +3048,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Ar Comprimido - Grau B - (Bactérias Aeróbias e Anaeróbias)",
-    "valor": 120,
+    "valor": 132,
     "ativo": true,
     "favorito": false
   },
@@ -3059,7 +3059,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Ar Comprimido - Grau B - (BT, BL)",
-    "valor": 120,
+    "valor": 132,
     "ativo": true,
     "favorito": false
   },
@@ -3070,7 +3070,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Ar Comprimido - Grau C - (Bactérias Aeróbias e Anaeróbias)",
-    "valor": 120,
+    "valor": 132,
     "ativo": true,
     "favorito": false
   },
@@ -3081,7 +3081,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Ar Comprimido - Grau C - (BT, BL)",
-    "valor": 120,
+    "valor": 132,
     "ativo": true,
     "favorito": false
   },
@@ -3092,7 +3092,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Ar Comprimido - Grau D - (Bactérias Aeróbias ,Anaeróbias e Fungos)",
-    "valor": 180,
+    "valor": 198,
     "ativo": true,
     "favorito": false
   },
@@ -3103,7 +3103,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Ar Comprimido - Grau D - (Bactérias Aeróbias e Anaeróbias)",
-    "valor": 120,
+    "valor": 132,
     "ativo": true,
     "favorito": false
   },
@@ -3114,7 +3114,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Ar Comprimido - Grau D - (BT, BL)",
-    "valor": 120,
+    "valor": 132,
     "ativo": true,
     "favorito": false
   },
@@ -3125,7 +3125,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Ar Dióxido de Carbono - Grau A - (Bactérias Aeróbias , Anaeróbias e Fungos)",
-    "valor": 180,
+    "valor": 198,
     "ativo": true,
     "favorito": false
   },
@@ -3136,7 +3136,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Ar Dióxido de Carbono - Grau D - (Bactérias Aeróbias , Anaeróbias e Fungos)",
-    "valor": 180,
+    "valor": 198,
     "ativo": true,
     "favorito": false
   },
@@ -3147,7 +3147,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Ar Nitrogênio - FQ ( Material particulado, óleo e graxas )",
-    "valor": 180,
+    "valor": 198,
     "ativo": true,
     "favorito": false
   },
@@ -3158,7 +3158,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Ar Nitrogenio - Grau A - (Bactérias Aeróbias, Anaeróbias, BL)",
-    "valor": 180,
+    "valor": 198,
     "ativo": true,
     "favorito": false
   },
@@ -3169,7 +3169,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Ar Nitrogênio - Grau C - (Bactérias Aeróbias, Anaeróbias, BL)",
-    "valor": 180,
+    "valor": 198,
     "ativo": true,
     "favorito": false
   },
@@ -3180,7 +3180,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Ar Nitrogenio - Grau D - (Bactérias Aeróbias, Anaeróbias, BL)",
-    "valor": 180,
+    "valor": 198,
     "ativo": true,
     "favorito": false
   },
@@ -3191,7 +3191,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Ar Oxigênio- Grau A - (BT, BL)",
-    "valor": 120,
+    "valor": 132,
     "ativo": true,
     "favorito": false
   },
@@ -3202,7 +3202,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Areia",
-    "valor": 240,
+    "valor": 264,
     "ativo": true,
     "favorito": false
   },
@@ -3213,7 +3213,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Atividade de Água (AW)",
-    "valor": 95,
+    "valor": 104.5,
     "ativo": true,
     "favorito": false
   },
@@ -3224,7 +3224,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Balneabilidade - FQ + Micro",
-    "valor": 399.3,
+    "valor": 439.23,
     "ativo": true,
     "favorito": false
   },
@@ -3235,7 +3235,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Balneabilidade - Micro",
-    "valor": 314.6,
+    "valor": 346.06,
     "ativo": true,
     "favorito": false
   },
@@ -3246,7 +3246,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Base Galênica, Pool de Matrizes , Produto Semi acabado e Matéria Prima",
-    "valor": 175,
+    "valor": 192.5,
     "ativo": true,
     "favorito": false
   },
@@ -3257,7 +3257,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Challenge Test",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Challenge Test - T0i - 0, 7, 14, 21, 28 dias",
-    "valor": 1100,
+    "valor": 1210,
     "ativo": true,
     "favorito": true
   },
@@ -3268,7 +3268,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Challenge Test",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Challenge Test - T0i - 0, 2, 7, 14, 21, 28 dias - (Botica in house 2)",
-    "valor": 2170,
+    "valor": 2387,
     "ativo": true,
     "favorito": true
   },
@@ -3279,7 +3279,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Challenge Test",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Challenge Test - T0i - 0, 2, 7, 14, 21, 28 dias - (Botica normal)",
-    "valor": 1093.4,
+    "valor": 1202.74,
     "ativo": true,
     "favorito": true
   },
@@ -3290,7 +3290,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Challenge Test",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Challenge Test - T0i - 0, 2, 7, 14, 28 dias - (Cepacia)",
-    "valor": 1793,
+    "valor": 1972.3,
     "ativo": true,
     "favorito": true
   },
@@ -3301,7 +3301,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Challenge Test",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Challenge Test - T0i - 0, 7, 14, 21, 28 dias - (Cepacia)",
-    "valor": 1705,
+    "valor": 1875.5,
     "ativo": true,
     "favorito": true
   },
@@ -3312,7 +3312,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Challenge Test",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Challenge Test - T0i - 0, 2, 7, 14, 28 dias - (USP)",
-    "valor": 1100,
+    "valor": 1210,
     "ativo": true,
     "favorito": true
   },
@@ -3323,7 +3323,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Challenge Test",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Challenge Test - T0i - 0, 7, 14, 28 dias - ISO 11930",
-    "valor": 1100,
+    "valor": 1210,
     "ativo": true,
     "favorito": true
   },
@@ -3334,7 +3334,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Challenge Test",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Challenge Test - T0i, T7r - 0, 2, 7, 14, 21, 28, 35 dias - (Botica in House 2)",
-    "valor": 2300,
+    "valor": 2530,
     "ativo": true,
     "favorito": true
   },
@@ -3345,7 +3345,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Challenge Test",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Challenge Test - T0i, T7r - 0, 2, 7, 14, 21, 28, 35 dias - (Botica in House 3)",
-    "valor": 2783,
+    "valor": 3061.3,
     "ativo": true,
     "favorito": true
   },
@@ -3356,7 +3356,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Challenge Test",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Challenge Test - T0i, T7r - 0, 2, 7, 14, 21, 28, 35 dias - (Botica)",
-    "valor": 1434.4,
+    "valor": 1577.84,
     "ativo": true,
     "favorito": true
   },
@@ -3367,7 +3367,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Challenge Test",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Challenge Test - T0i, T7r - 0, 7, 14, 21, 28 dias",
-    "valor": 1300,
+    "valor": 1430,
     "ativo": true,
     "favorito": true
   },
@@ -3378,7 +3378,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Challenge Test",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Challenge Test - T0i, T7r, T14r - 0, 2, 7, 14, 21, 28, 35, 42 dias - (Botica in House 1)",
-    "valor": 2970,
+    "valor": 3267,
     "ativo": true,
     "favorito": true
   },
@@ -3389,7 +3389,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Challenge Test",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Challenge Test - T0i, T7r, T14r - 0, 2, 7, 14, 21, 28, 35, 42 dias - (Botica in House 2)",
-    "valor": 2970,
+    "valor": 3267,
     "ativo": true,
     "favorito": true
   },
@@ -3400,7 +3400,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Challenge Test",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Challenge Test - T0i, T7r, T14r - 0, 7, 14, 21, 28 dias",
-    "valor": 1600,
+    "valor": 1760,
     "ativo": true,
     "favorito": true
   },
@@ -3411,7 +3411,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Challenge Test",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Challenge Test - T0i, T7r, T14r - 0, 7, 14, 21, 28, 35, 42 dias - (Botica)",
-    "valor": 1940.84,
+    "valor": 2134.92,
     "ativo": true,
     "favorito": true
   },
@@ -3422,7 +3422,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Cosméticos - Endotoxina (LQ 20,0)",
-    "valor": 360,
+    "valor": 396,
     "ativo": true,
     "favorito": true
   },
@@ -3433,7 +3433,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Cosméticos - FQ",
-    "valor": 350,
+    "valor": 385,
     "ativo": true,
     "favorito": true
   },
@@ -3444,7 +3444,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Cosméticos - FQ - Batom",
-    "valor": 100,
+    "valor": 110,
     "ativo": true,
     "favorito": true
   },
@@ -3455,7 +3455,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Cosméticos - Micro - Tipo II - ISO 17516",
-    "valor": 200,
+    "valor": 220,
     "ativo": true,
     "favorito": true
   },
@@ -3466,7 +3466,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Cosméticos - Tipo I - Matéria Prima - Micro + Clostridium",
-    "valor": 220,
+    "valor": 242,
     "ativo": true,
     "favorito": true
   },
@@ -3477,7 +3477,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Cosméticos - Tipo I - Micro",
-    "valor": 175,
+    "valor": 192.5,
     "ativo": true,
     "favorito": true
   },
@@ -3488,7 +3488,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Cosméticos - Tipo I - Micro (BT, BL)",
-    "valor": 140,
+    "valor": 154,
     "ativo": true,
     "favorito": true
   },
@@ -3499,7 +3499,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Cosméticos - Tipo I - Micro + (Candida, Salmo, Cepacia, E. coli)",
-    "valor": 335,
+    "valor": 368.5,
     "ativo": true,
     "favorito": true
   },
@@ -3510,7 +3510,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Cosméticos - Tipo I - Micro + Clostridium",
-    "valor": 220,
+    "valor": 242,
     "ativo": true,
     "favorito": true
   },
@@ -3521,7 +3521,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Cosméticos - Tipo II - Matéria Prima - Micro",
-    "valor": 175,
+    "valor": 192.5,
     "ativo": true,
     "favorito": true
   },
@@ -3532,7 +3532,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Cosméticos - Tipo II - Matéria Prima - Micro (BT)",
-    "valor": 90,
+    "valor": 99,
     "ativo": true,
     "favorito": true
   },
@@ -3543,7 +3543,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Cosméticos - Tipo II - Micro",
-    "valor": 175,
+    "valor": 192.5,
     "ativo": true,
     "favorito": true
   },
@@ -3554,7 +3554,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Cosméticos - Tipo II - Micro (BT, BL)",
-    "valor": 140,
+    "valor": 154,
     "ativo": true,
     "favorito": true
   },
@@ -3565,7 +3565,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Cosméticos - Tipo II - Micro (BT)",
-    "valor": 90,
+    "valor": 99,
     "ativo": true,
     "favorito": true
   },
@@ -3576,7 +3576,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Cosméticos - Tipo II - Micro + (Candida, E. coli)",
-    "valor": 220,
+    "valor": 242,
     "ativo": true,
     "favorito": true
   },
@@ -3587,7 +3587,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Cosméticos - Tipo II - Micro + Candida",
-    "valor": 200,
+    "valor": 220,
     "ativo": true,
     "favorito": true
   },
@@ -3598,7 +3598,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Cosméticos - Tipo II - Micro + Clostridium",
-    "valor": 220,
+    "valor": 242,
     "ativo": true,
     "favorito": true
   },
@@ -3609,7 +3609,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Descartáveis - Tipo I - Clostridium",
-    "valor": 130,
+    "valor": 143,
     "ativo": true,
     "favorito": false
   },
@@ -3620,7 +3620,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Descartáveis - Tipo I - Micro",
-    "valor": 190,
+    "valor": 209,
     "ativo": true,
     "favorito": false
   },
@@ -3631,7 +3631,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Descartáveis - Tipo I - Micro + (BT, BL, BT Gram (-), Coli, Aureus, Candida, Pseudo, Salmo, Asper)",
-    "valor": 345,
+    "valor": 379.5,
     "ativo": true,
     "favorito": false
   },
@@ -3642,7 +3642,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Descartáveis - Tipo I - Micro + (Clostridium, Salmonella, Cândida, E. coli, S. aures, Pseudomonas)",
-    "valor": 245,
+    "valor": 269.5,
     "ativo": true,
     "favorito": false
   },
@@ -3653,7 +3653,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Descartáveis - Tipo I - Micro + (Coliformes Totais e Termo, Cepacia, Salmonella)",
-    "valor": 350,
+    "valor": 385,
     "ativo": true,
     "favorito": false
   },
@@ -3664,7 +3664,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Descartáveis - Tipo I - Micro + (Coliformes Totais e Termo, Clostridium, Salmonella)",
-    "valor": 280,
+    "valor": 308,
     "ativo": true,
     "favorito": false
   },
@@ -3675,7 +3675,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Descartáveis - Tipo I - Micro + Clostridium",
-    "valor": 240,
+    "valor": 264,
     "ativo": true,
     "favorito": false
   },
@@ -3686,7 +3686,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Descartáveis - Tipo I - Salmonella",
-    "valor": 130,
+    "valor": 143,
     "ativo": true,
     "favorito": false
   },
@@ -3697,7 +3697,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Descartáveis - Tipo II - Micro",
-    "valor": 240,
+    "valor": 264,
     "ativo": true,
     "favorito": false
   },
@@ -3708,7 +3708,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Descartáveis - Tipo II - Micro - (BT, BL, SA, PS, ENT, CAND)",
-    "valor": 240,
+    "valor": 264,
     "ativo": true,
     "favorito": false
   },
@@ -3719,7 +3719,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Dispositivos Médicos - Bioburden - (G)",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": false
   },
@@ -3730,7 +3730,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Dispositivos Médicos - Bioburden - (M)",
-    "valor": 180,
+    "valor": 198,
     "ativo": true,
     "favorito": false
   },
@@ -3741,7 +3741,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Dispositivos Médicos - Bioburden - (P)",
-    "valor": 130,
+    "valor": 143,
     "ativo": true,
     "favorito": false
   },
@@ -3752,7 +3752,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Dispositivos Médicos - Endotoxina - Sistema Sanguíneo (mL)",
-    "valor": 360,
+    "valor": 396,
     "ativo": true,
     "favorito": true
   },
@@ -3763,7 +3763,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Dispositivos Médicos - Endotoxina - Sistema Sanguíneo (Produto)",
-    "valor": 360,
+    "valor": 396,
     "ativo": true,
     "favorito": true
   },
@@ -3774,7 +3774,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Dispositivos Médicos - Esterilidade - (G)",
-    "valor": 300,
+    "valor": 330,
     "ativo": true,
     "favorito": false
   },
@@ -3785,7 +3785,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Dispositivos Médicos - Esterilidade - (M)",
-    "valor": 220,
+    "valor": 242,
     "ativo": true,
     "favorito": false
   },
@@ -3796,7 +3796,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Dispositivos Médicos - Esterilidade - (P)",
-    "valor": 140,
+    "valor": 154,
     "ativo": true,
     "favorito": false
   },
@@ -3807,7 +3807,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Dispositivos Médicos - Micro",
-    "valor": 180,
+    "valor": 198,
     "ativo": true,
     "favorito": false
   },
@@ -3818,7 +3818,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Dispositivos Médicos - Mycoplasma ssp",
-    "valor": 450,
+    "valor": 495,
     "ativo": true,
     "favorito": false
   },
@@ -3829,7 +3829,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Dispositivos Médicos - Validação de Bioburden",
-    "valor": 1000,
+    "valor": 1100,
     "ativo": true,
     "favorito": false
   },
@@ -3840,7 +3840,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Efluente - Artigo 18 - Completo",
-    "valor": 1155,
+    "valor": 1270.5,
     "ativo": true,
     "favorito": false
   },
@@ -3851,7 +3851,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Efluente - Artigo 19A - (DBO, SST, Fator K)",
-    "valor": 462,
+    "valor": 508.2,
     "ativo": true,
     "favorito": false
   },
@@ -3862,7 +3862,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Efluente - Artigo 19A - Completa",
-    "valor": 1210,
+    "valor": 1331,
     "ativo": true,
     "favorito": false
   },
@@ -3873,7 +3873,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Efluente - Artigo 19A ( DBO, DQO, Fosforo, Amônia, OG, OD, pH, SS )",
-    "valor": 556.6,
+    "valor": 612.26,
     "ativo": true,
     "favorito": false
   },
@@ -3884,7 +3884,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Efluente - CONAMA 430 - Art. 16",
-    "valor": 1936,
+    "valor": 2129.6,
     "ativo": true,
     "favorito": false
   },
@@ -3895,7 +3895,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Efluente - NCH",
-    "valor": 726,
+    "valor": 798.6,
     "ativo": true,
     "favorito": false
   },
@@ -3906,7 +3906,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Efluente - NT 187 COPASA - Básica",
-    "valor": 845,
+    "valor": 929.5,
     "ativo": true,
     "favorito": false
   },
@@ -3917,7 +3917,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Efluente - NT 187 COPASA - Completo",
-    "valor": 1155,
+    "valor": 1270.5,
     "ativo": true,
     "favorito": false
   },
@@ -3928,7 +3928,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Embalagem Alimentícia - Micro",
-    "valor": 330,
+    "valor": 363,
     "ativo": true,
     "favorito": false
   },
@@ -3939,7 +3939,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Embalagem Alimentícia - Micro ( BT, BL, Psicotróficas, Termófilas,Coliformes totais e Termo ))",
-    "valor": 340,
+    "valor": 374,
     "ativo": true,
     "favorito": false
   },
@@ -3950,7 +3950,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Embalagem Cosmética - Micro",
-    "valor": 195,
+    "valor": 214.5,
     "ativo": true,
     "favorito": false
   },
@@ -3961,7 +3961,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Embalagem Cosmética - Micro + Salmonella",
-    "valor": 315,
+    "valor": 346.5,
     "ativo": true,
     "favorito": false
   },
@@ -3972,7 +3972,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Estabilidade",
     "clienteTipo": "Estudo",
     "nome": "Estabilidade - Cápsulas contendo Compostos Nitrogenados",
-    "valor": 980,
+    "valor": 1078,
     "ativo": true,
     "favorito": false
   },
@@ -3983,7 +3983,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Estabilidade",
     "clienteTipo": "Estudo",
     "nome": "Estabilidade - Cápsulas de Cafeína",
-    "valor": 3300,
+    "valor": 3630,
     "ativo": true,
     "favorito": false
   },
@@ -3994,7 +3994,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Estabilidade",
     "clienteTipo": "Estudo",
     "nome": "Estabilidade - Cosméticos (FB)",
-    "valor": 2800,
+    "valor": 3080,
     "ativo": true,
     "favorito": true
   },
@@ -4005,7 +4005,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Estabilidade",
     "clienteTipo": "Estudo",
     "nome": "Estabilidade - Creatina em pó",
-    "valor": 3300,
+    "valor": 3630,
     "ativo": true,
     "favorito": false
   },
@@ -4016,7 +4016,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Estabilidade",
     "clienteTipo": "Estudo",
     "nome": "Estabilidade - Dispositivos Médicos",
-    "valor": 2100,
+    "valor": 2310,
     "ativo": true,
     "favorito": false
   },
@@ -4027,7 +4027,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Estabilidade",
     "clienteTipo": "Estudo",
     "nome": "Estabilidade - Fraldas",
-    "valor": 2100,
+    "valor": 2310,
     "ativo": true,
     "favorito": false
   },
@@ -4038,7 +4038,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Estabilidade",
     "clienteTipo": "Estudo",
     "nome": "Estabilidade - Produtos Cosméticos (ISO)",
-    "valor": 2800,
+    "valor": 3080,
     "ativo": true,
     "favorito": true
   },
@@ -4049,7 +4049,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Estabilidade",
     "clienteTipo": "Estudo",
     "nome": "Estabilidade - Produtos Farmacêuticos",
-    "valor": 2800,
+    "valor": 3080,
     "ativo": true,
     "favorito": false
   },
@@ -4060,7 +4060,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Estabilidade",
     "clienteTipo": "Estudo",
     "nome": "Estabilidade - Produtos Farmacêuticos Líquidos",
-    "valor": 2800,
+    "valor": 3080,
     "ativo": true,
     "favorito": false
   },
@@ -4071,7 +4071,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Estabilidade",
     "clienteTipo": "Estudo",
     "nome": "Estabilidade - Produtos Saneantes",
-    "valor": 726,
+    "valor": 798.6,
     "ativo": true,
     "favorito": false
   },
@@ -4082,7 +4082,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Estabilidade",
     "clienteTipo": "Estudo",
     "nome": "Estabilidade - Suplementos em Barra",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": false
   },
@@ -4093,7 +4093,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Estabilidade",
     "clienteTipo": "Estudo",
     "nome": "Estabilidade - Suplementos em Cápsulas, Drágeas e Comprimidos",
-    "valor": 980,
+    "valor": 1078,
     "ativo": true,
     "favorito": false
   },
@@ -4104,7 +4104,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Estabilidade",
     "clienteTipo": "Estudo",
     "nome": "Estabilidade - Suplementos em Pó",
-    "valor": 1000,
+    "valor": 1100,
     "ativo": true,
     "favorito": false
   },
@@ -4115,7 +4115,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Estabilidade",
     "clienteTipo": "Estudo",
     "nome": "Estabilidade - Suplementos Líquidos e em Géis",
-    "valor": 980,
+    "valor": 1078,
     "ativo": true,
     "favorito": false
   },
@@ -4126,7 +4126,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Estabilidade",
     "clienteTipo": "Estudo",
     "nome": "Estabilidade - Whey Protein",
-    "valor": 850,
+    "valor": 935,
     "ativo": true,
     "favorito": false
   },
@@ -4137,7 +4137,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Farinhas e Massas - Macroscopia e Microscopia",
-    "valor": 298,
+    "valor": 327.8,
     "ativo": true,
     "favorito": false
   },
@@ -4148,7 +4148,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Produtos Químicos - Macroscopia e Microscopia",
-    "valor": 180,
+    "valor": 198,
     "ativo": true,
     "favorito": false
   },
@@ -4159,7 +4159,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Matéria Prima - Densidade",
-    "valor": 80,
+    "valor": 88,
     "ativo": true,
     "favorito": false
   },
@@ -4170,7 +4170,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Matéria Prima - Físico Química",
-    "valor": 300,
+    "valor": 330,
     "ativo": true,
     "favorito": false
   },
@@ -4181,7 +4181,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Matéria Prima - Índice de Refração",
-    "valor": 70,
+    "valor": 77,
     "ativo": true,
     "favorito": false
   },
@@ -4192,7 +4192,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Matéria Prima - Micro (Contagem de Bactérias Mesófilas, Termófilas e Anaeróbias)",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": false
   },
@@ -4203,7 +4203,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Matéria Prima - Micro (em gramas)",
-    "valor": 175,
+    "valor": 192.5,
     "ativo": true,
     "favorito": false
   },
@@ -4214,7 +4214,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Matéria Prima - Micro (em mL)",
-    "valor": 175,
+    "valor": 192.5,
     "ativo": true,
     "favorito": false
   },
@@ -4225,7 +4225,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Matéria Prima - Umidade",
-    "valor": 90,
+    "valor": 99,
     "ativo": true,
     "favorito": false
   },
@@ -4236,7 +4236,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Média Fill - Validação das Operações Assépticas",
-    "valor": 430,
+    "valor": 473,
     "ativo": true,
     "favorito": false
   },
@@ -4247,7 +4247,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Média Fill - Validação das Operações Assépticas - Octalab (60 Amostras)",
-    "valor": 690,
+    "valor": 759,
     "ativo": true,
     "favorito": false
   },
@@ -4258,7 +4258,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Concentração Inibitória Mínima - (Cutibacterium acnes)",
-    "valor": 770,
+    "valor": 847,
     "ativo": true,
     "favorito": false
   },
@@ -4269,7 +4269,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Concentração Inibitória Mínima - (E. coli; S. aureus; Pseudo; Aspergillus; Candida)",
-    "valor": 750,
+    "valor": 825,
     "ativo": true,
     "favorito": false
   },
@@ -4280,7 +4280,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Halo de Inibição / Orifício - (C. xerosis; E. coli; S. aureus; S. epidermidis)",
-    "valor": 850,
+    "valor": 935,
     "ativo": true,
     "favorito": false
   },
@@ -4291,7 +4291,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Halo de Inibição / Orifício - (Salmonella ; E. coli; S. aureus; Pseudo)",
-    "valor": 850,
+    "valor": 935,
     "ativo": true,
     "favorito": false
   },
@@ -4302,7 +4302,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Halo de Inibição / Orifício - TNT / (E. coli; S. aureus; Candida)",
-    "valor": 480,
+    "valor": 528,
     "ativo": true,
     "favorito": false
   },
@@ -4313,7 +4313,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Halo de Inibição / Orifício - TNT / (E. coli; S. aureus; Candida, A. brasiliensis, Salmonella, pseudomonas)",
-    "valor": 900,
+    "valor": 990,
     "ativo": true,
     "favorito": false
   },
@@ -4324,7 +4324,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Identificação de Microrganismos - Bactérias",
-    "valor": 100,
+    "valor": 110,
     "ativo": true,
     "favorito": false
   },
@@ -4335,7 +4335,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Identificação de Microrganismos - Fungos",
-    "valor": 100,
+    "valor": 110,
     "ativo": true,
     "favorito": false
   },
@@ -4346,7 +4346,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Identificação de Microorganismos - Salmonella",
-    "valor": 80,
+    "valor": 88,
     "ativo": true,
     "favorito": false
   },
@@ -4357,7 +4357,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "NBR 17037 - Ar Externo",
-    "valor": 130,
+    "valor": 143,
     "ativo": true,
     "favorito": true
   },
@@ -4368,7 +4368,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "NBR 17037 - Ar Interno - Aerodispersoides",
-    "valor": 70,
+    "valor": 77,
     "ativo": true,
     "favorito": true
   },
@@ -4379,7 +4379,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "NBR 17037 - Ar Interno - Completa",
-    "valor": 140,
+    "valor": 154,
     "ativo": true,
     "favorito": true
   },
@@ -4390,7 +4390,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "NBR 17037 - Ar Interno - Completa - Hospitais e Serviços Alimentícios",
-    "valor": 190,
+    "valor": 209,
     "ativo": true,
     "favorito": true
   },
@@ -4401,7 +4401,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "NBR 17037 - Ar Interno - Dióxido de Carbono (CO₂)",
-    "valor": 70,
+    "valor": 77,
     "ativo": true,
     "favorito": true
   },
@@ -4412,7 +4412,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "NBR 17037 - Ar Interno - Fungos Totais",
-    "valor": 100,
+    "valor": 110,
     "ativo": true,
     "favorito": true
   },
@@ -4423,7 +4423,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "NBR 17037 - Ar Interno - Temperatura",
-    "valor": 70,
+    "valor": 77,
     "ativo": true,
     "favorito": true
   },
@@ -4434,7 +4434,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "NBR 17037 - Ar Interno - Umidade",
-    "valor": 70,
+    "valor": 77,
     "ativo": true,
     "favorito": true
   },
@@ -4445,7 +4445,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "NBR 17037 - Ar Interno - Velocidade",
-    "valor": 70,
+    "valor": 77,
     "ativo": true,
     "favorito": true
   },
@@ -4456,7 +4456,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Nimesulida (Teste de identificação A /Teste de identificação C ) - USP /Conforme resolução",
-    "valor": 5900,
+    "valor": 6490,
     "ativo": true,
     "favorito": false
   },
@@ -4467,7 +4467,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Níveis de Garantia dos produtos para alimentação animal",
-    "valor": 870,
+    "valor": 957,
     "ativo": true,
     "favorito": false
   },
@@ -4478,7 +4478,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Organolépticos e Sensoriais - Suplementos em cápsulas, drágeas e comprimidos",
-    "valor": 100,
+    "valor": 110,
     "ativo": true,
     "favorito": false
   },
@@ -4489,7 +4489,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Farmacêutico - Fitoterápico - Micro",
-    "valor": 175,
+    "valor": 192.5,
     "ativo": true,
     "favorito": false
   },
@@ -4500,7 +4500,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Nutrição Parenteral - Esterilidade",
-    "valor": 160,
+    "valor": 176,
     "ativo": true,
     "favorito": false
   },
@@ -4511,7 +4511,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Peso Médio e Uniformidade de Cápsula",
-    "valor": 150,
+    "valor": 165,
     "ativo": true,
     "favorito": false
   },
@@ -4522,7 +4522,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Preparações Parenterais",
-    "valor": 350,
+    "valor": 385,
     "ativo": true,
     "favorito": false
   },
@@ -4533,7 +4533,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Preparação Aquosa e Não Aquosa de Uso Oral - Micro",
-    "valor": 175,
+    "valor": 192.5,
     "ativo": true,
     "favorito": false
   },
@@ -4544,7 +4544,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Preparação Vaginal - Micro",
-    "valor": 175,
+    "valor": 192.5,
     "ativo": true,
     "favorito": false
   },
@@ -4555,7 +4555,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Produto Farmacêutico - Bioburden (P)",
-    "valor": 250,
+    "valor": 275,
     "ativo": true,
     "favorito": false
   },
@@ -4566,7 +4566,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Produto Farmacêutico - Endotoxina EU/mL",
-    "valor": 360,
+    "valor": 396,
     "ativo": true,
     "favorito": true
   },
@@ -4577,7 +4577,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Produtos Farmacêuticos - Cápsulas Oleosas",
-    "valor": 330,
+    "valor": 363,
     "ativo": true,
     "favorito": false
   },
@@ -4588,7 +4588,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Produtos Farmacêuticos - Endotoxina (LQ 0,125)",
-    "valor": 350,
+    "valor": 385,
     "ativo": true,
     "favorito": true
   },
@@ -4599,7 +4599,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Produtos Farmacêuticos - Endotoxina (LQ 0,250)",
-    "valor": 360,
+    "valor": 396,
     "ativo": true,
     "favorito": true
   },
@@ -4610,7 +4610,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Produtos Farmacêuticos - Endotoxina (LQ 0,50)",
-    "valor": 350,
+    "valor": 385,
     "ativo": true,
     "favorito": true
   },
@@ -4621,7 +4621,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Produtos Farmacêuticos - Endotoxina (LQ 2,92)",
-    "valor": 350,
+    "valor": 385,
     "ativo": true,
     "favorito": true
   },
@@ -4632,7 +4632,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Produtos Farmacêuticos - Endotoxina (LQ 3,50)",
-    "valor": 350,
+    "valor": 385,
     "ativo": true,
     "favorito": true
   },
@@ -4643,7 +4643,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Produtos Farmacêuticos - Endotoxina (LQ 35,0)",
-    "valor": 350,
+    "valor": 385,
     "ativo": true,
     "favorito": true
   },
@@ -4654,7 +4654,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Produtos Farmacêuticos - Endotoxina (LQ 350,0)",
-    "valor": 400,
+    "valor": 440,
     "ativo": true,
     "favorito": true
   },
@@ -4665,7 +4665,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Produtos Farmacêuticos - Esterilidade (Método Direto)",
-    "valor": 290,
+    "valor": 319,
     "ativo": true,
     "favorito": false
   },
@@ -4676,7 +4676,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Ensaios Críticos / Farma",
     "clienteTipo": "Ensaios Críticos / Farma",
     "nome": "Produtos Farmacêuticos - Esterilidade (Método Indireto)",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": false
   },
@@ -4687,7 +4687,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Produtos Farmacêuticos - Matéria Prima - Pesquisa de Fungos (Fusarium e Aspergillus)",
-    "valor": 455,
+    "valor": 500.5,
     "ativo": true,
     "favorito": false
   },
@@ -4698,7 +4698,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Produtos Farmacêuticos - Micro",
-    "valor": 175,
+    "valor": 192.5,
     "ativo": true,
     "favorito": false
   },
@@ -4709,7 +4709,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Produtos Farmacêuticos - Peróxido de Hidrogênio",
-    "valor": 120,
+    "valor": 132,
     "ativo": true,
     "favorito": false
   },
@@ -4720,7 +4720,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Produtos Farmacêuticos - pH",
-    "valor": 90,
+    "valor": 99,
     "ativo": true,
     "favorito": false
   },
@@ -4731,7 +4731,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Produtos Farmacêuticos - Soro",
-    "valor": 240,
+    "valor": 264,
     "ativo": true,
     "favorito": false
   },
@@ -4742,7 +4742,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Produtos Farmacêuticos - Soro Fisiológico",
-    "valor": 175,
+    "valor": 192.5,
     "ativo": true,
     "favorito": false
   },
@@ -4753,7 +4753,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Item de Preço",
     "clienteTipo": "Item de Preço",
     "nome": "Produtos Saneantes - Cloreto de Benzalcônio",
-    "valor": 110,
+    "valor": 121,
     "ativo": true,
     "favorito": false
   },
@@ -4764,7 +4764,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Produtos Saneantes - pH de Laboratório",
-    "valor": 100,
+    "valor": 110,
     "ativo": true,
     "favorito": false
   },
@@ -4775,7 +4775,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Promoção de Crescimento em Meio de Cultura - (Staphylococcus aureus ATCC 6538)",
-    "valor": 165,
+    "valor": 181.5,
     "ativo": true,
     "favorito": false
   },
@@ -4786,7 +4786,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Promoção de Crescimento em Meio de Cultura - (Staphylococcus aureus ATCC 6538, C. albicans ATCC 10231, A. brasiliensis ATCC 16404)",
-    "valor": 330,
+    "valor": 363,
     "ativo": true,
     "favorito": false
   },
@@ -4797,7 +4797,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "RDC 11 - Micro Dialisato (BT)",
-    "valor": 88,
+    "valor": 96.8,
     "ativo": true,
     "favorito": false
   },
@@ -4808,7 +4808,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Rodac - (BT, BL, C. Termo) - APHA",
-    "valor": 187,
+    "valor": 205.7,
     "ativo": true,
     "favorito": true
   },
@@ -4819,7 +4819,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Rodac - (BT, BL, C. Termo) - Padrão Internacional - Carpete",
-    "valor": 187,
+    "valor": 205.7,
     "ativo": true,
     "favorito": true
   },
@@ -4830,7 +4830,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Rodac - (BT, BL, CT) - Embalagem - Schutz",
-    "valor": 187,
+    "valor": 205.7,
     "ativo": true,
     "favorito": true
   },
@@ -4841,7 +4841,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Rodac - (BT, BL) - APHA",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": true
   },
@@ -4852,7 +4852,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Rodac - (BT, BL) - ISO 4.8",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": true
   },
@@ -4863,7 +4863,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Rodac - (BT, BL) - ISO 5",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": true
   },
@@ -4874,7 +4874,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Rodac - (BT, BL) - ISO 5 - Em Operação",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": true
   },
@@ -4885,7 +4885,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Rodac - (BT, BL) - ISO 5 - Em Operação / Luvas",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": true
   },
@@ -4896,7 +4896,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Rodac - (BT, BL) - ISO 5 - Luvas",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": true
   },
@@ -4907,7 +4907,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Rodac - (BT, BL) - ISO 7",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": true
   },
@@ -4918,7 +4918,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Rodac - (BT, BL) - ISO 8",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": true
   },
@@ -4929,7 +4929,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Rodac - (BT, BL) - ISO 8 - Em Operação",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": true
   },
@@ -4940,7 +4940,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Rodac - (BT, BL) - OPAS",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": true
   },
@@ -4951,7 +4951,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Rodac - (BT, BL) - Padrão Internacional - Carpete",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": true
   },
@@ -4962,7 +4962,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "RODAC (BT, BL) - ISO 4.8 - Luvas",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": true
   },
@@ -4973,7 +4973,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Alimentos prontos para o consumo",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -4984,7 +4984,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Alimentos Semielaborados",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -4995,7 +4995,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Anexo III - Item B",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5006,7 +5006,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Aveia em Pó",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5017,7 +5017,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Barra de Cereais",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5028,7 +5028,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Bebidas Alcoólicas",
-    "valor": 440,
+    "valor": 484,
     "ativo": true,
     "favorito": true
   },
@@ -5039,7 +5039,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Bebidas Carbonatadas",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5050,7 +5050,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Bebidas com conservantes, sem carbonatação e não refrigeradas",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5061,7 +5061,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Café, cevada, chás e produtos similares",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5072,7 +5072,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Carne cruas, maturadas ou não temperados ou não, refrigerados ou congelados",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5083,7 +5083,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Carne de Ave Defumada",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5094,7 +5094,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Carne de Aves",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5105,7 +5105,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Carne moída, produtos cárneos crus moldados, temperados ou não, refrigerados ou congelados (hamburgueres, almôndegas, quibes)",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5116,7 +5116,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Carne Suína Crua",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5127,7 +5127,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Carne Suína Moída",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5138,7 +5138,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Carnes e produtos cárneos crus salgados - 6.e",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5149,7 +5149,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Castanhas",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5160,7 +5160,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Cereais, Farofas, Farinhas",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5171,7 +5171,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Chocolates, incluindo chocolates brancos, bombons e similares, com recheio, estáveis à temperatura ambiente",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5182,7 +5182,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Doce de Leite",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5193,7 +5193,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Doces e sobremesas",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5204,7 +5204,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Farinhas, amidos, féculas e fubás - Item 19.a",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5215,7 +5215,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Feijoada",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5226,7 +5226,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Frutas",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5237,7 +5237,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Gelados Comestíveis",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5248,7 +5248,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Geleia",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5259,7 +5259,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Gorduras e produtos gordurosos de origem animal (banha e bacon) - 6.g",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5270,7 +5270,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Hortaliças secas, desidratas ou liofilizadas",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5281,7 +5281,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Hortaliças, Raizes, Tubérculos",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5292,7 +5292,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Hortaliças, Raízes, Tubérculos, Fungos Comestíveis e Derivados",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5303,7 +5303,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "Shelf Life - IN 161 13. - b) Fórmulas infantis em pó de seguimento para lactentes e crianças de primeira infância e outros alimentos especialmente formulados para lactentes e crianças de primeira infância",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5314,7 +5314,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiologia de Alimentos / IN 161",
     "clienteTipo": "Análise microbiológica",
     "nome": "Shelf Life - IN 161 23.a",
-    "valor": 508,
+    "valor": 558.8,
     "ativo": true,
     "favorito": true
   },
@@ -5325,7 +5325,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Linguiças Frescais Suínas",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5336,7 +5336,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Macarrão",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5347,7 +5347,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Margarina",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5358,7 +5358,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Massas alimentícias frescas e produtos semielaborados - Item 19.c",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5369,7 +5369,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Molhos",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5380,7 +5380,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Molhos Cepêra",
-    "valor": 690,
+    "valor": 759,
     "ativo": true,
     "favorito": true
   },
@@ -5391,7 +5391,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Pães, bolos e outros produtos de panificação - Item 19.c",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5402,7 +5402,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Panificados - Item 19.d",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5413,7 +5413,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Panificados - Item 19.e",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5424,7 +5424,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Pescados e miúdos",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5435,7 +5435,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Picles",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5446,7 +5446,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Produtos à base de leite vegetal UAT/UHT",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5457,7 +5457,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Produtos à base de mel",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5468,7 +5468,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Produtos Cárneos Defumados",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5479,7 +5479,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Produtos de Panificação sem Recheio - Item 19.d",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5490,7 +5490,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Produtos em Pó",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5501,7 +5501,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Produtos Extrusados - 19 - G",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5512,7 +5512,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Produtos Lácteos Processados fundidos",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5523,7 +5523,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Ração Animal",
-    "valor": 630,
+    "valor": 693,
     "ativo": true,
     "favorito": true
   },
@@ -5534,7 +5534,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Sal Marinho",
-    "valor": 760,
+    "valor": 836,
     "ativo": true,
     "favorito": true
   },
@@ -5545,7 +5545,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Snacks",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5556,7 +5556,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Suco \"in natura\"",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5567,7 +5567,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Suco em Pó",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5578,7 +5578,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Sucos e bebidas , que necessitam refrigeração",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5589,7 +5589,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Vegetais em Conserva",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5600,7 +5600,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Estudo de Shelf-life",
     "clienteTipo": "Estudo",
     "nome": "Shelf Life - Xarope de Glucose",
-    "valor": 550,
+    "valor": 605,
     "ativo": true,
     "favorito": true
   },
@@ -5611,7 +5611,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Sólidos Dissolvidos Totais - Grau Brix",
-    "valor": 50,
+    "valor": 55,
     "ativo": true,
     "favorito": false
   },
@@ -5622,7 +5622,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Solução Hidroalcoólica - Micro",
-    "valor": 175,
+    "valor": 192.5,
     "ativo": true,
     "favorito": false
   },
@@ -5633,7 +5633,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Físico-Química",
     "clienteTipo": "Físico-Química",
     "nome": "Suplementos em cápsulas, drágeas e comprimidos",
-    "valor": 305,
+    "valor": 335.5,
     "ativo": true,
     "favorito": false
   },
@@ -5644,7 +5644,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Mãos - (Bactérias totais, Coliformes Totais e Termo, Entero, E.coli, S. aureus, Salmo, Listeria)",
-    "valor": 330,
+    "valor": 363,
     "ativo": true,
     "favorito": true
   },
@@ -5655,7 +5655,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Mãos - (BL, E. Coli , B. Cereus) - APHA",
-    "valor": 175,
+    "valor": 192.5,
     "ativo": true,
     "favorito": true
   },
@@ -5666,7 +5666,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Swab de Mãos - (BL, CT, C. Termo, Pseudo, Salmo, S. aureus) - ISO 5",
-    "valor": 240,
+    "valor": 264,
     "ativo": true,
     "favorito": true
   },
@@ -5677,7 +5677,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Swab de Mãos - (BT, BL) - ISO 5",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": true
   },
@@ -5688,7 +5688,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Swab de Mãos - (BT, BL, CT, C. Termo, Pseudo, Salmo, S. aureus) - ISO 5",
-    "valor": 240,
+    "valor": 264,
     "ativo": true,
     "favorito": true
   },
@@ -5699,7 +5699,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Mãos - (Contagem Coli, Coliformes termo, Aures, BL, BT, BT Anaerob. / Pesquisa Salmo) - APHA",
-    "valor": 330,
+    "valor": 363,
     "ativo": true,
     "favorito": true
   },
@@ -5710,7 +5710,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Mãos - (Entero, Estafilo) - APHA",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": true
   },
@@ -5721,7 +5721,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Mãos - (Pesquisa de C. albicans, S. aureus, K. aerogenes) - APHA",
-    "valor": 360,
+    "valor": 396,
     "ativo": true,
     "favorito": true
   },
@@ -5732,7 +5732,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Mãos - (S. aureus, C. Termo, Pseudo) - APHA",
-    "valor": 165,
+    "valor": 181.5,
     "ativo": true,
     "favorito": true
   },
@@ -5743,7 +5743,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Mãos - (S. aureus, C. Termo) - APHA",
-    "valor": 145,
+    "valor": 159.5,
     "ativo": true,
     "favorito": true
   },
@@ -5754,7 +5754,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Mãos - (S. aureus, Enterob., E. coli) - APHA",
-    "valor": 170,
+    "valor": 187,
     "ativo": true,
     "favorito": true
   },
@@ -5765,7 +5765,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Mãos - ( S. aureus, Coliformes Total e Termo) - APHA",
-    "valor": 150,
+    "valor": 165,
     "ativo": true,
     "favorito": true
   },
@@ -5776,7 +5776,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Secreção Vaginal - (Pesquisa de C. albicans e C. Glabrata)",
-    "valor": 100,
+    "valor": 110,
     "ativo": true,
     "favorito": true
   },
@@ -5787,7 +5787,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Superfície - (B. cereus, BL ) - APHA",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": true
   },
@@ -5798,7 +5798,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Superfície - ( Bactérias totais, Coliformes Totais e Termo, Entero, E.coli, S. aureus, Salmo, Listeria)",
-    "valor": 330,
+    "valor": 363,
     "ativo": true,
     "favorito": true
   },
@@ -5809,7 +5809,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Superfície - (BL, EC, Entero, Salmo) - APHA",
-    "valor": 195,
+    "valor": 214.5,
     "ativo": true,
     "favorito": true
   },
@@ -5820,7 +5820,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Superfície - (BL, Estafilo, Enterobact) - APHA",
-    "valor": 175,
+    "valor": 192.5,
     "ativo": true,
     "favorito": true
   },
@@ -5831,7 +5831,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Superfície - (BL, S. Aureus, E. coli, Enterobact) - APHA",
-    "valor": 175,
+    "valor": 192.5,
     "ativo": true,
     "favorito": true
   },
@@ -5842,7 +5842,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Superfície - (BT, BL, CT, EC, C. Termo) - APHA",
-    "valor": 195,
+    "valor": 214.5,
     "ativo": true,
     "favorito": true
   },
@@ -5853,7 +5853,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Superfície - (BT, BL, EC, Salmo, S. aureus, C. Termo) - APHA",
-    "valor": 240,
+    "valor": 264,
     "ativo": true,
     "favorito": true
   },
@@ -5864,7 +5864,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Superfície - (BT, BL, Enterobact) - APHA",
-    "valor": 170,
+    "valor": 187,
     "ativo": true,
     "favorito": true
   },
@@ -5875,7 +5875,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Superfície - (BT, BL) - APHA",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": true
   },
@@ -5886,7 +5886,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Swab de Superfície - (BT, BL) - ISO 5",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": true
   },
@@ -5897,7 +5897,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Swab de Superfície - (BT, BL) - ISO 7",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": true
   },
@@ -5908,7 +5908,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Pacote Normativo",
     "clienteTipo": "Pacote normativo",
     "nome": "Swab de Superfície - (BT, BL) - ISO 8",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": true
   },
@@ -5919,7 +5919,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Superfície - (BT, C. Termo) - OPAS",
-    "valor": 145,
+    "valor": 159.5,
     "ativo": true,
     "favorito": true
   },
@@ -5930,7 +5930,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Superfície - (BT, CT, EC) - APHA",
-    "valor": 176,
+    "valor": 193.6,
     "ativo": true,
     "favorito": true
   },
@@ -5941,7 +5941,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Superfície - (BT, Enterobact) - APHA",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": true
   },
@@ -5952,7 +5952,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Superfície - (Contagem Coli, Coliformes termo, Aures, BL, BT, BT Anaerob. / Pesquisa Salmo) - APHA",
-    "valor": 330,
+    "valor": 363,
     "ativo": true,
     "favorito": true
   },
@@ -5963,7 +5963,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Superfície - (Contagem Coli, Enterobacteriaceae, BT, BL / Pesquisa Salmo) - APHA - PL",
-    "valor": 245,
+    "valor": 269.5,
     "ativo": true,
     "favorito": true
   },
@@ -5974,7 +5974,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Superfície - (Contagem de BL, Estafilococos, Enterobacteriaceae, E. coli, Salmo) - APHA",
-    "valor": 270,
+    "valor": 297,
     "ativo": true,
     "favorito": true
   },
@@ -5985,7 +5985,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Superfície - (Contagem de BL, Estafilococos, Enterobacteriaceae) - APHA - PL",
-    "valor": 210,
+    "valor": 231,
     "ativo": true,
     "favorito": true
   },
@@ -5996,7 +5996,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Superfície - ( Contagem de BT, BL, Pesquisa de Coliformes Termotolerantes) - APHA",
-    "valor": 175,
+    "valor": 192.5,
     "ativo": true,
     "favorito": true
   },
@@ -6007,7 +6007,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Superfície - (Pesquisa de C. albicans, S. aureus, K. aerogenes) - APHA",
-    "valor": 360,
+    "valor": 396,
     "ativo": true,
     "favorito": true
   },
@@ -6018,7 +6018,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Microbiológica",
     "clienteTipo": "Análise microbiológica",
     "nome": "Swab de Superfície - (Salmo, Enterobact) - APHA",
-    "valor": 155,
+    "valor": 170.5,
     "ativo": true,
     "favorito": true
   },
@@ -6029,7 +6029,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Tabela Nutricional",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Sódio - Tabela Nutricional",
-    "valor": 225,
+    "valor": 247.5,
     "ativo": true,
     "favorito": false
   },
@@ -6040,7 +6040,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Tabela Nutricional",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Tabela Nutricional",
-    "valor": 2790,
+    "valor": 3069,
     "ativo": true,
     "favorito": false
   },
@@ -6051,7 +6051,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Tabela Nutricional",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Tabela Nutricional Básica (Proteínas Totais, Carboidratos Totais, Gorduras Totais)",
-    "valor": 660,
+    "valor": 726,
     "ativo": true,
     "favorito": false
   },
@@ -6062,7 +6062,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Tabela Nutricional",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Tabela Nutricional Gelatos",
-    "valor": 1700,
+    "valor": 1870,
     "ativo": true,
     "favorito": false
   },
@@ -6073,7 +6073,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor Alcoólico",
-    "valor": 130,
+    "valor": 143,
     "ativo": true,
     "favorito": true
   },
@@ -6084,7 +6084,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Acetilcisteína",
-    "valor": 2180,
+    "valor": 2398,
     "ativo": true,
     "favorito": true
   },
@@ -6095,7 +6095,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Arginina",
-    "valor": 2500,
+    "valor": 2750,
     "ativo": true,
     "favorito": true
   },
@@ -6106,7 +6106,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Barrilha (Carbonato de Sódio)",
-    "valor": 150,
+    "valor": 165,
     "ativo": true,
     "favorito": true
   },
@@ -6117,7 +6117,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Beta Alanina",
-    "valor": 2200,
+    "valor": 2420,
     "ativo": true,
     "favorito": true
   },
@@ -6128,7 +6128,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Cafeína",
-    "valor": 2200,
+    "valor": 2420,
     "ativo": true,
     "favorito": true
   },
@@ -6139,7 +6139,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Cálcio em Alimentos",
-    "valor": 200,
+    "valor": 220,
     "ativo": true,
     "favorito": true
   },
@@ -6150,7 +6150,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Cipionato de Testosterona",
-    "valor": 2640,
+    "valor": 2904,
     "ativo": true,
     "favorito": true
   },
@@ -6161,7 +6161,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Colágeno",
-    "valor": 3000,
+    "valor": 3300,
     "ativo": true,
     "favorito": true
   },
@@ -6172,7 +6172,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Creatina - HPLC",
-    "valor": 1815,
+    "valor": 1996.5,
     "ativo": true,
     "favorito": true
   },
@@ -6183,7 +6183,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Curcumina",
-    "valor": 2200,
+    "valor": 2420,
     "ativo": true,
     "favorito": true
   },
@@ -6194,7 +6194,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Enantato de Testosterona",
-    "valor": 2640,
+    "valor": 2904,
     "ativo": true,
     "favorito": true
   },
@@ -6205,7 +6205,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de L-Citrulinilarginina",
-    "valor": 2915,
+    "valor": 3206.5,
     "ativo": true,
     "favorito": true
   },
@@ -6216,7 +6216,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Melatonina",
-    "valor": 2200,
+    "valor": 2420,
     "ativo": true,
     "favorito": true
   },
@@ -6227,7 +6227,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Nandrolona Decanoato",
-    "valor": 2640,
+    "valor": 2904,
     "ativo": true,
     "favorito": true
   },
@@ -6238,7 +6238,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Semaglutida",
-    "valor": 2500,
+    "valor": 2750,
     "ativo": true,
     "favorito": true
   },
@@ -6249,7 +6249,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Taurina",
-    "valor": 2200,
+    "valor": 2420,
     "ativo": true,
     "favorito": true
   },
@@ -6260,7 +6260,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Tirzepatida",
-    "valor": 2950,
+    "valor": 3245,
     "ativo": true,
     "favorito": true
   },
@@ -6271,7 +6271,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Vitamina A",
-    "valor": 1800,
+    "valor": 1980,
     "ativo": true,
     "favorito": true
   },
@@ -6282,7 +6282,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Vitamina B1 (Tiamina)",
-    "valor": 1300,
+    "valor": 1430,
     "ativo": true,
     "favorito": true
   },
@@ -6293,7 +6293,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Vitamina B12 (Cobalamina)",
-    "valor": 1300,
+    "valor": 1430,
     "ativo": true,
     "favorito": true
   },
@@ -6304,7 +6304,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Vitamina B2 (Riboflavina)",
-    "valor": 1300,
+    "valor": 1430,
     "ativo": true,
     "favorito": true
   },
@@ -6315,7 +6315,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Vitamina B3 (PP)",
-    "valor": 1300,
+    "valor": 1430,
     "ativo": true,
     "favorito": true
   },
@@ -6326,7 +6326,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Vitamina B5 (Pantotenato de Cálcio)",
-    "valor": 1300,
+    "valor": 1430,
     "ativo": true,
     "favorito": true
   },
@@ -6337,7 +6337,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Vitamina B6 (Piridoxina)",
-    "valor": 1300,
+    "valor": 1430,
     "ativo": true,
     "favorito": true
   },
@@ -6348,7 +6348,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Vitamina B9 (Ácido Fólico)",
-    "valor": 1300,
+    "valor": 1430,
     "ativo": true,
     "favorito": true
   },
@@ -6359,7 +6359,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Vitamina C (Ácido Ascórbico) - HPLC",
-    "valor": 1300,
+    "valor": 1430,
     "ativo": true,
     "favorito": true
   },
@@ -6370,7 +6370,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Vitamina C (Fosfatada)",
-    "valor": 1300,
+    "valor": 1430,
     "ativo": true,
     "favorito": true
   },
@@ -6381,7 +6381,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Vitamina D3",
-    "valor": 1980,
+    "valor": 2178,
     "ativo": true,
     "favorito": true
   },
@@ -6392,7 +6392,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor de Zinco",
-    "valor": 220,
+    "valor": 242,
     "ativo": true,
     "favorito": true
   },
@@ -6403,7 +6403,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor e Uniformidade de Cápsula - Antibiótico > 100mg",
-    "valor": 450,
+    "valor": 495,
     "ativo": true,
     "favorito": true
   },
@@ -6414,7 +6414,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor e Uniformidade de Cápsula - Hormônio, Antibiótico, Citostático ≤ 100mg",
-    "valor": 450,
+    "valor": 495,
     "ativo": true,
     "favorito": true
   },
@@ -6425,7 +6425,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Teores / Dosagens / Nutricionais",
     "clienteTipo": "Parâmetro nutricional/físico-químico",
     "nome": "Teor e Uniformidade de Cápsula ≤ 25mg",
-    "valor": 450,
+    "valor": 495,
     "ativo": true,
     "favorito": true
   },
@@ -6436,7 +6436,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Time Kill",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Time Kill - 0', 0.5h, 1h, 3h, 4h - (Salmonella; E. coli; S. aureus; Pseudo)",
-    "valor": 980,
+    "valor": 1078,
     "ativo": true,
     "favorito": true
   },
@@ -6447,7 +6447,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Time Kill",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Time Kill - 0', 0.5', 1', 1.5', 2' - (Salmonella; E. coli; S. aureus; Pseudo)",
-    "valor": 950,
+    "valor": 1045,
     "ativo": true,
     "favorito": true
   },
@@ -6458,7 +6458,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Time Kill",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Time Kill - 0', 1', 2', 3', 5', 10' - (C. acnes; E. coli; S. aureus; Pseudo)",
-    "valor": 980,
+    "valor": 1078,
     "ativo": true,
     "favorito": true
   },
@@ -6469,7 +6469,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Time Kill",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Time Kill - 0', 1', 2', 3', 5', 10' - (Salmonella; E. coli; S. aureus; Pseudo)",
-    "valor": 980,
+    "valor": 1078,
     "ativo": true,
     "favorito": true
   },
@@ -6480,7 +6480,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Time Kill",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Time Kill - 0', 1', 2', 3', 5', 10' - (Salmonella; E. coli; S. aureus; Pseudo; Aspergillus; Candida)",
-    "valor": 980,
+    "valor": 1078,
     "ativo": true,
     "favorito": true
   },
@@ -6491,7 +6491,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Time Kill",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Time Kill - 0', 1', 2', 3', 5', 10' - (Salmonella; E. coli; S. aureus; Pseud., Cand.)",
-    "valor": 980,
+    "valor": 1078,
     "ativo": true,
     "favorito": true
   },
@@ -6502,7 +6502,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Time Kill",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Time Kill - 0', 1', 2', 3', 5', 10' - Eficácia Bactericida",
-    "valor": 770,
+    "valor": 847,
     "ativo": true,
     "favorito": true
   },
@@ -6513,7 +6513,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Time Kill",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Time Kill - 0', 1', 2', 5', 10' - (E. coli; Pseudo; S. aureus; S. epid.)",
-    "valor": 980,
+    "valor": 1078,
     "ativo": true,
     "favorito": true
   },
@@ -6524,7 +6524,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Time Kill",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Time Kill - 0', 1', 2', 5', 10', 20' - (Cutibacterium acnes, S. aureus, S. epidermidis)",
-    "valor": 980,
+    "valor": 1078,
     "ativo": true,
     "favorito": true
   },
@@ -6535,7 +6535,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Time Kill",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Time Kill - 0', 1', 2', 5', 10', 20' - (Salmonella; E. coli; S. aureus; Pseudo)",
-    "valor": 950,
+    "valor": 1045,
     "ativo": true,
     "favorito": true
   },
@@ -6546,7 +6546,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Time Kill",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Time Kill - 0', 1', 2', 5', 10', 20' - (X. xerosis; E. coli; S. aureus; S. epidermidis)",
-    "valor": 950,
+    "valor": 1045,
     "ativo": true,
     "favorito": true
   },
@@ -6557,7 +6557,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Time Kill",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Time Kill - 0', 1', 5', 10', 20' - (Salmonella; E. coli; S. aureus; Pseudo)",
-    "valor": 950,
+    "valor": 1045,
     "ativo": true,
     "favorito": true
   },
@@ -6568,7 +6568,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Time Kill",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Time Kill - 0', 2', 5', 10' - (C. xerosis; S. aureus; S. epidermidis)",
-    "valor": 980,
+    "valor": 1078,
     "ativo": true,
     "favorito": true
   },
@@ -6579,7 +6579,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Time Kill",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Time Kill - 0', 2', 5', 10' - (E. coli; S. aureus; C. Albicans)",
-    "valor": 910,
+    "valor": 1001,
     "ativo": true,
     "favorito": true
   },
@@ -6590,7 +6590,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Time Kill",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Time Kill - 0', 10', 20', 30', 60', 180' - (E. coli)",
-    "valor": 726,
+    "valor": 798.6,
     "ativo": true,
     "favorito": true
   },
@@ -6601,7 +6601,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Time Kill",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Time Kill - Antissépticos para os pés - 0', 30', 60' (X. xerosis, T. rubrum, T. mentagrophytes)",
-    "valor": 950,
+    "valor": 1045,
     "ativo": true,
     "favorito": true
   },
@@ -6612,7 +6612,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Time Kill",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Time Kill - Desodorantes - 0', 2', 5', 10' - (C. xerosis; S. aureus; S. epidermidis)",
-    "valor": 980,
+    "valor": 1078,
     "ativo": true,
     "favorito": true
   },
@@ -6623,7 +6623,7 @@ export const DEFAULT_PRICES: PriceItem[] = [
     "tipo": "Time Kill",
     "clienteTipo": "Ensaio de eficácia/desafio",
     "nome": "Time Kill - Desodorantes - Tempos Estudados (T0, T 6 horas, T 8 horas, T 12 horas) - (C. xerosis; S. aureus; S. epidermidis)",
-    "valor": 980,
+    "valor": 1078,
     "ativo": true,
     "favorito": true
   }

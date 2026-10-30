@@ -197,9 +197,16 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
 
   const cartTotal = selectedPrices.reduce((acc, curr) => acc + (curr.valor || 0) * (curr.qtd || 1), 0);
 
-  // Price Catalog
+  // Price Catalog (v2: tabela reajustada com +10% em todas as análises)
+  const CATALOG_VERSION = 'prolab_price_catalog_v2_plus10';
   const [priceCatalog, setPriceCatalog] = useState<PriceItem[]>(() => {
     try {
+      const version = localStorage.getItem('prolab_price_version');
+      if (version !== CATALOG_VERSION) {
+        localStorage.setItem('prolab_price_version', CATALOG_VERSION);
+        localStorage.setItem('prolab_price_catalog', JSON.stringify(DEFAULT_PRICES));
+        return DEFAULT_PRICES;
+      }
       const saved = localStorage.getItem('prolab_price_catalog');
       return saved ? JSON.parse(saved) : DEFAULT_PRICES;
     } catch {

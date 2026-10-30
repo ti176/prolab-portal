@@ -19,8 +19,11 @@ import {
   X, 
   BookOpen,
   Sparkles,
-  ExternalLink
+  ExternalLink,
+  Percent,
+  RotateCcw
 } from 'lucide-react';
+import { DEFAULT_PRICES } from '../../data/prices';
 
 export const PrecoView: React.FC = () => {
   const { isAdmin } = useAuth();
@@ -139,20 +142,42 @@ export const PrecoView: React.FC = () => {
     e.target.value = '';
   };
 
+  const handleBatchAdjustment = (pct: number) => {
+    if (!confirm(`Deseja reajustar todos os ${priceCatalog.length} preços em ${pct > 0 ? '+' : ''}${pct}%?`)) return;
+    const factor = 1 + pct / 100;
+    const updated = priceCatalog.map(p => ({
+      ...p,
+      valor: Math.round(Number(p.valor) * factor * 100) / 100,
+    }));
+    setPriceCatalog(updated);
+    toast(`Todos os preços foram reajustados em ${pct > 0 ? '+' : ''}${pct}%!`, 'ok');
+  };
+
+  const handleResetPrices = () => {
+    if (!confirm('Deseja restaurar a tabela oficial de preços padrão (versão atualizada com +10%)?')) return;
+    setPriceCatalog(DEFAULT_PRICES);
+    toast('Tabela oficial padrão restaurada!', 'ok');
+  };
+
   return (
     <div className="max-w-7xl mx-auto px-4 py-6 space-y-6 animate-fade-in">
       {/* Header Banner */}
       <div className="bg-gradient-to-r from-[#0F1B2D] via-[#00594C] to-[#007A68] text-white rounded-2xl p-6 shadow-md flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
         <div>
-          <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/10 text-emerald-200 text-xs font-semibold mb-2">
-            <Tag className="w-3.5 h-3.5" />
-            Catálogo Analítico Oficial
+          <div className="flex items-center gap-2 mb-2 flex-wrap">
+            <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/10 text-emerald-200 text-xs font-semibold">
+              <Tag className="w-3.5 h-3.5" />
+              Catálogo Analítico Oficial
+            </div>
+            <span className="px-2.5 py-0.5 rounded-full bg-emerald-500/25 text-emerald-200 text-[10px] font-bold border border-emerald-400/30">
+              Reajuste +10% Aplicado
+            </span>
           </div>
           <h1 className="text-xl sm:text-2xl font-black">
             Tabela de Preços & Cotações
           </h1>
           <p className="text-xs text-white/80 mt-1 max-w-xl">
-            Consulte ensaios, consulte enquadramentos regulatórios oficiais (Portaria 888, IN 161, RDC 481), monte o carrinho e gere a proposta em segundos.
+            Consulte ensaios, consulte enquadramentos regulatórios oficiais (Portaria 888, IN 161, RDC 481), monte o carrinho e gere a proposta em segundos com valores atualizados.
           </p>
         </div>
 
@@ -167,6 +192,23 @@ export const PrecoView: React.FC = () => {
 
           {isAdmin && (
             <>
+              <button
+                onClick={() => handleBatchAdjustment(10)}
+                className="px-3 py-2 rounded-xl bg-emerald-600/60 hover:bg-emerald-600 text-white text-xs font-bold border border-emerald-400/40 transition-all flex items-center gap-1.5"
+                title="Aplicar mais +10% em todas as análises"
+              >
+                <Percent className="w-3.5 h-3.5" />
+                <span>+10% em Lote</span>
+              </button>
+
+              <button
+                onClick={handleResetPrices}
+                className="px-2.5 py-2 rounded-xl bg-white/10 hover:bg-white/20 text-white text-xs font-bold border border-white/20 transition-all flex items-center gap-1"
+                title="Restaurar tabela padrão (+10% base)"
+              >
+                <RotateCcw className="w-3.5 h-3.5" />
+              </button>
+
               <button
                 onClick={handleExportFullCatalog}
                 className="px-3 py-2 rounded-xl bg-white/10 hover:bg-white/20 text-white text-xs font-bold border border-white/20 transition-all flex items-center gap-1.5"
